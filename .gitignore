@@ -1,0 +1,21 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.pytest_cache/
+.mypy_cache/
+
+work/*
+!work/.gitkeep
+
+# Vendored portable Calibre (~600 MB) — install Calibre or provide your own copy
+tools/calibre-extracted/
+
+# Scratch space
+tmp/
+
+output/*
+!output/.gitkeep
+
+input/*
+!input/.gitkeep

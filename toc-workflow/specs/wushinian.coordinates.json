@@ -1,0 +1,165 @@
+{
+  "books": [
+    {
+      "file": "五十年来的中国近代史研究.epub",
+      "entries": [
+        {
+          "label": "前言",
+          "file": "ebook_source_split_001.html",
+          "block": 0,
+          "expect": "前言"
+        },
+        {
+          "label": "中国近代史研究的理论和方法",
+          "file": "ebook_source_split_001.html",
+          "block": 34,
+          "expect": "中国近代史研究的理论和方法"
+        },
+        {
+          "label": "晚清政治史",
+          "file": "ebook_source_split_001.html",
+          "block": 73,
+          "expect": "晚清政治史"
+        },
+        {
+          "label": "民国政治史",
+          "file": "ebook_source_split_001.html",
+          "block": 184,
+          "expect": "民国政治史"
+        },
+        {
+          "label": "经济史",
+          "file": "ebook_source_split_002.html",
+          "block": 43,
+          "expect": "经济史"
+        },
+        {
+          "label": "军事史",
+          "file": "ebook_source_split_002.html",
+          "block": 168,
+          "expect": "军事史"
+        },
+        {
+          "label": "思想史",
+          "file": "ebook_source_split_002.html",
+          "block": 225,
+          "expect": "思想史"
+        },
+        {
+          "label": "文化史",
+          "file": "ebook_source_split_003.html",
+          "block": 60,
+          "expect": "文化史"
+        },
+        {
+          "label": "史学史",
+          "file": "ebook_source_split_003.html",
+          "block": 189,
+          "expect": "史学史"
+        },
+        {
+          "label": "教育史",
+          "file": "ebook_source_split_004.html",
+          "block": 84,
+          "expect": "教育史"
+        },
+        {
+          "label": "中外关系史",
+          "file": "ebook_source_split_004.html",
+          "block": 156,
+          "expect": "中外关系史"
+        },
+        {
+          "label": "社会史",
+          "file": "ebook_source_split_005.html",
+          "block": 51,
+          "expect": "社会史"
+        },
+        {
+          "label": "城市史",
+          "file": "ebook_source_split_005.html",
+          "block": 137,
+          "expect": "城市史"
+        },
+        {
+          "label": "工人运动史",
+          "file": "ebook_source_split_006.html",
+          "block": 52,
+          "expect": "工人运动史"
+        },
+        {
+          "label": "妇女史",
+          "file": "ebook_source_split_006.html",
+          "block": 179,
+          "expect": "妇女史"
+        },
+        {
+          "label": "青年运动史",
+          "file": "ebook_source_split_007.html",
+          "block": 104,
+          "expect": "青年运动史"
+        },
+        {
+          "label": "太平天国运动史",
+          "file": "ebook_source_split_007.html",
+          "block": 191,
+          "expect": "太平天国运动史"
+        },
+        {
+          "label": "孙中山研究",
+          "file": "ebook_source_split_008.html",
+          "block": 100,
+          "expect": "孙中山研究"
+        },
+        {
+          "label": "辛亥革命史",
+          "file": "ebook_source_split_008.html",
+          "block": 235,
+          "expect": "辛亥革命史"
+        },
+        {
+          "label": "北洋军阀史",
+          "file": "ebook_source_split_012.html",
+          "block": 14,
+          "expect": "北洋军阀史"
+        },
+        {
+          "label": "中共党史",
+          "file": "ebook_source_split_012.html",
+          "block": 92,
+          "expect": "中共党史"
+        },
+        {
+          "label": "抗日战争史",
+          "file": "ebook_source_split_012.html",
+          "block": 172,
+          "expect": "抗日战争史"
+        },
+        {
+          "label": "近代历史人物研究",
+          "file": "ebook_source_split_013.html",
+          "block": 5,
+          "expect": "近代历史人物研究"
+        },
+        {
+          "label": "近代史资料的整理与出版",
+          "file": "ebook_source_split_013.html",
+          "block": 103,
+          "expect": "近代史资料的整理与出版"
+        },
+        {
+          "label": "海外中国近代史研究著作译介",
+          "file": "ebook_source_split_013.html",
+          "block": 223,
+          "expect": "海外中国近代史研究著作译介"
+        },
+        {
+          "label": "作者简介",
+          "file": "ebook_source_split_013.html",
+          "block": 269,
+          "expect": "作者简介"
+        }
+      ]
+    }
+  ]
+}

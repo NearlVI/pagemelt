@@ -1,0 +1,2042 @@
+{
+  "books": [
+    {
+      "file": "巴黎神话 从启蒙运动到超现实主义 (（法）伊戈内著；喇卫国译 etc.) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "entries": [
+        {
+          "label": "译者序",
+          "file": "ebook_source_split_001.html",
+          "block": 0,
+          "expect": "译者序"
+        },
+        {
+          "label": "引言",
+          "file": "ebook_source_split_001.html",
+          "block": 41,
+          "expect": "引言"
+        },
+        {
+          "label": "第一章 巴黎，第一次现代性的神话之都",
+          "file": "ebook_source_split_002.html",
+          "block": 0,
+          "expect": "第一章"
+        },
+        {
+          "label": "第二章 巴黎，革命的神话之都",
+          "file": "ebook_source_split_003.html",
+          "block": 0,
+          "expect": "第二章"
+        },
+        {
+          "label": "第三章 巴黎，罪恶的神秘之都",
+          "file": "ebook_source_split_004.html",
+          "block": 0,
+          "expect": "第三章"
+        },
+        {
+          "label": "第四章 巴黎女性，反女权主义神话的形成及演变",
+          "file": "ebook_source_split_005.html",
+          "block": 0,
+          "expect": "第四章"
+        },
+        {
+          "label": "第五章 巴黎，科学之都",
+          "file": "ebook_source_split_006.html",
+          "block": 0,
+          "expect": "第五章"
+        },
+        {
+          "label": "第六章 巴黎：可读的神话，可见的神话",
+          "file": "ebook_source_split_007.html",
+          "block": 0,
+          "expect": "第六章"
+        },
+        {
+          "label": "第七章 巴黎－机器：一个现代工业之都的神话",
+          "file": "ebook_source_split_008.html",
+          "block": 0,
+          "expect": "第七章"
+        },
+        {
+          "label": "第八章 巴黎以及自我异化的反神话",
+          "file": "ebook_source_split_009.html",
+          "block": 0,
+          "expect": "第八章"
+        },
+        {
+          "label": "第九章 歌剧与轻歌剧：巴黎—纽约 巴黎—伦敦 巴黎—布达佩斯",
+          "file": "ebook_source_split_010.html",
+          "block": 0,
+          "expect": "第九章"
+        },
+        {
+          "label": "第十章 巴尔扎克、波德莱尔、左拉：19世纪文学想象中的巴黎",
+          "file": "ebook_source_split_011.html",
+          "block": 0,
+          "expect": "第十章"
+        },
+        {
+          "label": "第十一章 巴黎的魔幻：巴黎，娱乐之都",
+          "file": "ebook_source_split_012.html",
+          "block": 0,
+          "expect": "第十一章"
+        },
+        {
+          "label": "第十二章 美洲的白人与黑人想象中的巴黎",
+          "file": "ebook_source_split_013.html",
+          "block": 0,
+          "expect": "第十二章"
+        },
+        {
+          "label": "第十三章 巴黎世界博览会：从神话到魔幻",
+          "file": "ebook_source_split_014.html",
+          "block": 0,
+          "expect": "第十三章"
+        },
+        {
+          "label": "第十四章 超现实主义和老巴黎神话的终结",
+          "file": "ebook_source_split_015.html",
+          "block": 0,
+          "expect": "第十四章"
+        },
+        {
+          "label": "第十五章 巴黎在欧洲：巴黎，艺术之都",
+          "file": "ebook_source_split_016.html",
+          "block": 0,
+          "expect": "第十五章"
+        },
+        {
+          "label": "结束语",
+          "file": "ebook_source_split_016.html",
+          "block": 118,
+          "expect": "结束语"
+        },
+        {
+          "label": "人名对照表",
+          "file": "ebook_source_split_016.html",
+          "block": 125,
+          "expect": "人名对照表"
+        }
+      ]
+    },
+    {
+      "file": "诙谐的断代史 意大利文艺复兴时期妙语录 (（意）斯佩罗尼著) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "entries": [
+        {
+          "label": "导读：诙谐与智慧",
+          "file": "ebook_source_split_000.html",
+          "block": 51,
+          "expect": "导读：诙谐与智慧"
+        },
+        {
+          "label": "导言",
+          "file": "ebook_source_split_000.html",
+          "block": 134,
+          "expect": "导言"
+        },
+        {
+          "label": "I 波焦·布拉乔利尼",
+          "file": "ebook_source_split_000.html",
+          "block": 179,
+          "expect": "波焦·布拉乔利尼",
+          "children": [
+            {
+              "label": "1 加埃塔来的穷水手",
+              "file": "ebook_source_split_001.html",
+              "block": 0,
+              "expect": "1 加埃塔来的穷水手"
+            },
+            {
+              "label": "2 给疯子做治疗的医生",
+              "file": "ebook_source_split_002.html",
+              "block": 0,
+              "expect": "2 给疯子做治疗的医生"
+            },
+            {
+              "label": "3 晚起的人",
+              "file": "ebook_source_split_003.html",
+              "block": 0,
+              "expect": "3 晚起的人"
+            },
+            {
+              "label": "4 一位妇女如何欺骗她的丈夫",
+              "file": "ebook_source_split_004.html",
+              "block": 0,
+              "expect": "4 一位妇女如何欺骗她的丈夫"
+            },
+            {
+              "label": "5 一位木雕匠问来要十字架的农民， 是要活基督还是死基督",
+              "file": "ebook_source_split_005.html",
+              "block": 0,
+              "expect": "5 一位木雕匠问来要十字架的农民， 是要活基督还是死基督"
+            },
+            {
+              "label": "6 吉安诺佐·维斯康蒂",
+              "file": "ebook_source_split_006.html",
+              "block": 0,
+              "expect": "6 吉安诺佐·维斯康蒂"
+            },
+            {
+              "label": "7 一位红衣主教对教皇的士兵的激励",
+              "file": "ebook_source_split_007.html",
+              "block": 0,
+              "expect": "7 一位红衣主教对教皇的士兵的激励"
+            },
+            {
+              "label": "8 埋葬小狗的教士",
+              "file": "ebook_source_split_008.html",
+              "block": 0,
+              "expect": "8 埋葬小狗的教士"
+            },
+            {
+              "label": "9 一位做了非常简短布道的修道士",
+              "file": "ebook_source_split_009.html",
+              "block": 0,
+              "expect": "9 一位做了非常简短布道的修道士"
+            },
+            {
+              "label": "10 佛罗伦萨诗人但丁的优雅回复",
+              "file": "ebook_source_split_010.html",
+              "block": 0,
+              "expect": "10 佛罗伦萨诗人但丁的优雅回复"
+            },
+            {
+              "label": "11 一位坚称丈夫没出息的女人",
+              "file": "ebook_source_split_011.html",
+              "block": 0,
+              "expect": "11 一位坚称丈夫没出息的女人"
+            },
+            {
+              "label": "12 一个被投入监狱的赌徒",
+              "file": "ebook_source_split_012.html",
+              "block": 0,
+              "expect": "12 一个被投入监狱的赌徒"
+            },
+            {
+              "label": "13 一个正在找他那掉入河中的妻子的丈夫",
+              "file": "ebook_source_split_013.html",
+              "block": 0,
+              "expect": "13 一个正在找他那掉入河中的妻子的丈夫"
+            },
+            {
+              "label": "14 罗马教士洛伦佐的妙语",
+              "file": "ebook_source_split_014.html",
+              "block": 0,
+              "expect": "14 罗马教士洛伦佐的妙语"
+            },
+            {
+              "label": "15 一位聪明人怎样开教皇博尼费斯的玩笑",
+              "file": "ebook_source_split_015.html",
+              "block": 0,
+              "expect": "15 一位聪明人怎样开教皇博尼费斯的玩笑"
+            },
+            {
+              "label": "16 一位宁愿娶十个处女也不娶一个结过婚的女人的教士",
+              "file": "ebook_source_split_016.html",
+              "block": 0,
+              "expect": "16 一位宁愿娶十个处女也不娶一个结过婚的女人的教士"
+            },
+            {
+              "label": "17 波尔多一位红衣主教所说的一个江湖骗子的故事",
+              "file": "ebook_source_split_017.html",
+              "block": 0,
+              "expect": "17 波尔多一位红衣主教所说的一个江湖骗子的故事"
+            },
+            {
+              "label": "18 一个射伤了里多尔福的射手",
+              "file": "ebook_source_split_018.html",
+              "block": 0,
+              "expect": "18 一个射伤了里多尔福的射手"
+            },
+            {
+              "label": "19 向里多尔福炫耀珠宝的安茹公爵",
+              "file": "ebook_source_split_019.html",
+              "block": 0,
+              "expect": "19 向里多尔福炫耀珠宝的安茹公爵"
+            },
+            {
+              "label": "20 专治傻子的庸医",
+              "file": "ebook_source_split_020.html",
+              "block": 0,
+              "expect": "20 专治傻子的庸医"
+            },
+            {
+              "label": "21 一个认不得自己马的威尼斯人的笑话",
+              "file": "ebook_source_split_021.html",
+              "block": 0,
+              "expect": "21 一个认不得自己马的威尼斯人的笑话"
+            },
+            {
+              "label": "22 博士和笨蛋",
+              "file": "ebook_source_split_022.html",
+              "block": 0,
+              "expect": "22 博士和笨蛋"
+            },
+            {
+              "label": "23 某个罗马人的巧妙答复",
+              "file": "ebook_source_split_023.html",
+              "block": 0,
+              "expect": "23 某个罗马人的巧妙答复"
+            },
+            {
+              "label": "24 扛驴子的老人",
+              "file": "ebook_source_split_024.html",
+              "block": 0,
+              "expect": "24 扛驴子的老人"
+            },
+            {
+              "label": "25 一位医生给病人看病时的机灵",
+              "file": "ebook_source_split_025.html",
+              "block": 0,
+              "expect": "25 一位医生给病人看病时的机灵"
+            },
+            {
+              "label": "26 一个想为出名而花上 1 000 弗罗林的人",
+              "file": "ebook_source_split_026.html",
+              "block": 0,
+              "expect": "26 一个想为出名而花上 1 000 弗罗林的人"
+            },
+            {
+              "label": "27 声誉卓著的但丁的一则妙语",
+              "file": "ebook_source_split_027.html",
+              "block": 0,
+              "expect": "27 声誉卓著的但丁的一则妙语"
+            },
+            {
+              "label": "28 一位妇女在被某个男人问及她是否能生一个十二个月大的孩子时所作的搞笑回答",
+              "file": "ebook_source_split_028.html",
+              "block": 0,
+              "expect": "28 一位妇女在被某个男人问及她是否能生一个十二个月大的孩子时所作的搞笑回答"
+            },
+            {
+              "label": "29 一位去了匈牙利的佛罗伦萨教士",
+              "file": "ebook_source_split_029.html",
+              "block": 0,
+              "expect": "29 一位去了匈牙利的佛罗伦萨教士"
+            },
+            {
+              "label": "30 一个想娶少女的高地人",
+              "file": "ebook_source_split_030.html",
+              "block": 0,
+              "expect": "30 一个想娶少女的高地人"
+            },
+            {
+              "label": "31 一个将被狗追逐的狐狸藏起来的农夫",
+              "file": "ebook_source_split_031.html",
+              "block": 0,
+              "expect": "31 一个将被狗追逐的狐狸藏起来的农夫"
+            },
+            {
+              "label": "32 跟教皇尤金尼厄斯有关的某些异事",
+              "file": "ebook_source_split_032.html",
+              "block": 0,
+              "expect": "32 跟教皇尤金尼厄斯有关的某些异事"
+            },
+            {
+              "label": "33 彼得里洛如何清理一所医院里的所有流氓",
+              "file": "ebook_source_split_033.html",
+              "block": 0,
+              "expect": "33 彼得里洛如何清理一所医院里的所有流氓"
+            },
+            {
+              "label": "34 最悦耳的声音",
+              "file": "ebook_source_split_034.html",
+              "block": 0,
+              "expect": "34 最悦耳的声音"
+            },
+            {
+              "label": "35 一位被自己的王子父亲下令闭嘴的儿子",
+              "file": "ebook_source_split_035.html",
+              "block": 0,
+              "expect": "35 一位被自己的王子父亲下令闭嘴的儿子"
+            },
+            {
+              "label": "36 一个肥胖的骑士",
+              "file": "ebook_source_split_036.html",
+              "block": 0,
+              "expect": "36 一个肥胖的骑士"
+            },
+            {
+              "label": "37 一个乱开药方的医生的妙语",
+              "file": "ebook_source_split_037.html",
+              "block": 0,
+              "expect": "37 一个乱开药方的医生的妙语"
+            },
+            {
+              "label": "38 对一个担心其债务的人的忠告",
+              "file": "ebook_source_split_038.html",
+              "block": 0,
+              "expect": "38 对一个担心其债务的人的忠告"
+            },
+            {
+              "label": "39 向圣母玛利亚许下一支蜡烛的人",
+              "file": "ebook_source_split_039.html",
+              "block": 0,
+              "expect": "39 向圣母玛利亚许下一支蜡烛的人"
+            },
+            {
+              "label": "40 一位想嫁年长丈夫的寡妇",
+              "file": "ebook_source_split_040.html",
+              "block": 0,
+              "expect": "40 一位想嫁年长丈夫的寡妇"
+            },
+            {
+              "label": "41 一个男孩对红衣主教安吉洛特的巧妙回答",
+              "file": "ebook_source_split_041.html",
+              "block": 0,
+              "expect": "41 一个男孩对红衣主教安吉洛特的巧妙回答"
+            },
+            {
+              "label": "42 一个在吃饭时以鹧鸪代替鱼的西班牙主教",
+              "file": "ebook_source_split_042.html",
+              "block": 0,
+              "expect": "42 一个在吃饭时以鹧鸪代替鱼的西班牙主教"
+            },
+            {
+              "label": "43 一个说科隆的大主教是四脚动物的傻子",
+              "file": "ebook_source_split_043.html",
+              "block": 0,
+              "expect": "43 一个说科隆的大主教是四脚动物的傻子"
+            },
+            {
+              "label": "44 一位女儿如何向父亲解释她的不孕",
+              "file": "ebook_source_split_044.html",
+              "block": 0,
+              "expect": "44 一位女儿如何向父亲解释她的不孕"
+            },
+            {
+              "label": "45 一个把五万说成五百的教士",
+              "file": "ebook_source_split_045.html",
+              "block": 0,
+              "expect": "45 一个把五万说成五百的教士"
+            },
+            {
+              "label": "46 大声叫嚷的教士",
+              "file": "ebook_source_split_046.html",
+              "block": 0,
+              "expect": "46 大声叫嚷的教士"
+            },
+            {
+              "label": "47 被老丈夫嘲笑的年轻妇人",
+              "file": "ebook_source_split_047.html",
+              "block": 0,
+              "expect": "47 被老丈夫嘲笑的年轻妇人"
+            },
+            {
+              "label": "48 让红衣主教安吉洛特开口",
+              "file": "ebook_source_split_048.html",
+              "block": 0,
+              "expect": "48 让红衣主教安吉洛特开口"
+            },
+            {
+              "label": "49 里多尔福是如何借出去一匹好马的",
+              "file": "ebook_source_split_049.html",
+              "block": 0,
+              "expect": "49 里多尔福是如何借出去一匹好马的"
+            },
+            {
+              "label": "50 一个跟妻子有不同寻常经历的英国染色工",
+              "file": "ebook_source_split_050.html",
+              "block": 0,
+              "expect": "50 一个跟妻子有不同寻常经历的英国染色工"
+            },
+            {
+              "label": "51 一个佛罗伦萨人对热那亚的孩子们的巧妙评论",
+              "file": "ebook_source_split_051.html",
+              "block": 0,
+              "expect": "51 一个佛罗伦萨人对热那亚的孩子们的巧妙评论"
+            },
+            {
+              "label": "52 对一个说别人坏话的商人的辛辣回答",
+              "file": "ebook_source_split_052.html",
+              "block": 0,
+              "expect": "52 对一个说别人坏话的商人的辛辣回答"
+            },
+            {
+              "label": "53 一个承诺要教导驴子的人的妙语",
+              "file": "ebook_source_split_053.html",
+              "block": 0,
+              "expect": "53 一个承诺要教导驴子的人的妙语"
+            },
+            {
+              "label": "54 鳄鱼的眼泪",
+              "file": "ebook_source_split_054.html",
+              "block": 0,
+              "expect": "54 鳄鱼的眼泪"
+            },
+            {
+              "label": "55 在脖子上拴很多链子的人",
+              "file": "ebook_source_split_055.html",
+              "block": 0,
+              "expect": "55 在脖子上拴很多链子的人"
+            },
+            {
+              "label": "56 卡梅里诺的邦主里多尔福，以及好讥讪的大使",
+              "file": "ebook_source_split_056.html",
+              "block": 0,
+              "expect": "56 卡梅里诺的邦主里多尔福，以及好讥讪的大使"
+            },
+            {
+              "label": "57 忏悔者与忏悔师之间的奇妙平衡",
+              "file": "ebook_source_split_057.html",
+              "block": 0,
+              "expect": "57 忏悔者与忏悔师之间的奇妙平衡"
+            },
+            {
+              "label": "58 某人在被抬去埋葬时开口说话",
+              "file": "ebook_source_split_058.html",
+              "block": 0,
+              "expect": "58 某人在被抬去埋葬时开口说话"
+            },
+            {
+              "label": "59 一个敏捷机灵的回答",
+              "file": "ebook_source_split_059.html",
+              "block": 0,
+              "expect": "59 一个敏捷机灵的回答"
+            },
+            {
+              "label": "60 一个穷人对一个感到冷的富人的回答",
+              "file": "ebook_source_split_060.html",
+              "block": 0,
+              "expect": "60 一个穷人对一个感到冷的富人的回答"
+            },
+            {
+              "label": "61 因遭劫而给法奇诺·卡恩的抗议",
+              "file": "ebook_source_split_061.html",
+              "block": 0,
+              "expect": "61 因遭劫而给法奇诺·卡恩的抗议"
+            },
+            {
+              "label": "62 一个想让妻子相信他已经死了的人",
+              "file": "ebook_source_split_062.html",
+              "block": 0,
+              "expect": "62 一个想让妻子相信他已经死了的人"
+            },
+            {
+              "label": "63 对某个诽谤者的巧妙答复",
+              "file": "ebook_source_split_063.html",
+              "block": 0,
+              "expect": "63 对某个诽谤者的巧妙答复"
+            },
+            {
+              "label": "64 两个有着同样的盾形徽章的年轻人之间的争吵",
+              "file": "ebook_source_split_064.html",
+              "block": 0,
+              "expect": "64 两个有着同样的盾形徽章的年轻人之间的争吵"
+            },
+            {
+              "label": "65 一个嘲笑佛罗伦萨的绅士的傻子",
+              "file": "ebook_source_split_065.html",
+              "block": 0,
+              "expect": "65 一个嘲笑佛罗伦萨的绅士的傻子"
+            },
+            {
+              "label": "66 一个经常说谎的佛罗伦萨人",
+              "file": "ebook_source_split_066.html",
+              "block": 0,
+              "expect": "66 一个经常说谎的佛罗伦萨人"
+            },
+            {
+              "label": "67 一位忏悔师给贝尔纳博·维斯康蒂的对女人问题的回答",
+              "file": "ebook_source_split_067.html",
+              "block": 0,
+              "expect": "67 一位忏悔师给贝尔纳博·维斯康蒂的对女人问题的回答"
+            },
+            {
+              "label": "68 一个在战时向贝尔纳博议论和平的修士",
+              "file": "ebook_source_split_068.html",
+              "block": 0,
+              "expect": "68 一个在战时向贝尔纳博议论和平的修士"
+            }
+          ]
+        },
+        {
+          "label": "II 卢多维科·卡蓬",
+          "file": "ebook_source_split_068.html",
+          "block": 4,
+          "expect": "卢多维科·卡蓬",
+          "children": [
+            {
+              "label": "1 如何抓住一只烤熟了的鹌鹑",
+              "file": "ebook_source_split_069.html",
+              "block": 0,
+              "expect": "1 如何抓住一只烤熟了的鹌鹑"
+            },
+            {
+              "label": "2 去年的香肠更好",
+              "file": "ebook_source_split_070.html",
+              "block": 0,
+              "expect": "2 去年的香肠更好"
+            },
+            {
+              "label": "3 他们比教皇更虔诚",
+              "file": "ebook_source_split_071.html",
+              "block": 0,
+              "expect": "3 他们比教皇更虔诚"
+            },
+            {
+              "label": "4 但丁的对答如流",
+              "file": "ebook_source_split_072.html",
+              "block": 0,
+              "expect": "4 但丁的对答如流"
+            },
+            {
+              "label": "5 最灵验的药",
+              "file": "ebook_source_split_073.html",
+              "block": 0,
+              "expect": "5 最灵验的药"
+            },
+            {
+              "label": "6 因失明而高兴的人",
+              "file": "ebook_source_split_074.html",
+              "block": 0,
+              "expect": "6 因失明而高兴的人"
+            },
+            {
+              "label": "7 “鹞子” 不是指 “大司铎”!",
+              "file": "ebook_source_split_075.html",
+              "block": 0,
+              "expect": "7 “鹞子” 不是指 “大司铎”!"
+            }
+          ]
+        },
+        {
+          "label": "III 皮奥瓦诺·阿洛托",
+          "file": "ebook_source_split_075.html",
+          "block": 11,
+          "expect": "皮奥瓦诺·阿洛托",
+          "children": [
+            {
+              "label": "1 阿洛托教士与那不勒斯的国王",
+              "file": "ebook_source_split_076.html",
+              "block": 0,
+              "expect": "1 阿洛托教士与那不勒斯的国王"
+            },
+            {
+              "label": "2 阿洛托教士让某个叫文图拉的教友在圣餐时吹口哨",
+              "file": "ebook_source_split_077.html",
+              "block": 0,
+              "expect": "2 阿洛托教士让某个叫文图拉的教友在圣餐时吹口哨"
+            },
+            {
+              "label": "3 圣·克雷希不是一个为了煎蛋的圣徒",
+              "file": "ebook_source_split_078.html",
+              "block": 0,
+              "expect": "3 圣·克雷希不是一个为了煎蛋的圣徒"
+            },
+            {
+              "label": "4 阿洛托教士为一个农夫做忏悔",
+              "file": "ebook_source_split_079.html",
+              "block": 0,
+              "expect": "4 阿洛托教士为一个农夫做忏悔"
+            },
+            {
+              "label": "5 在祭坛附近吐痰的人",
+              "file": "ebook_source_split_080.html",
+              "block": 0,
+              "expect": "5 在祭坛附近吐痰的人"
+            },
+            {
+              "label": "6 为猎人们做的弥撒",
+              "file": "ebook_source_split_081.html",
+              "block": 0,
+              "expect": "6 为猎人们做的弥撒"
+            },
+            {
+              "label": "7 科西莫·德·美第奇的儿子彼埃罗 跟阿洛托教士讲的一则故事",
+              "file": "ebook_source_split_082.html",
+              "block": 0,
+              "expect": "7 科西莫·德·美第奇的儿子彼埃罗 跟阿洛托教士讲的一则故事"
+            },
+            {
+              "label": "8 阿洛托教士跟科西莫·德·美第奇的儿子 彼埃罗讲的一则故事",
+              "file": "ebook_source_split_083.html",
+              "block": 0,
+              "expect": "8 阿洛托教士跟科西莫·德·美第奇的儿子 彼埃罗讲的一则故事"
+            },
+            {
+              "label": "9 阿洛托在圣·斯皮里托教堂里的妙语",
+              "file": "ebook_source_split_084.html",
+              "block": 0,
+              "expect": "9 阿洛托在圣·斯皮里托教堂里的妙语"
+            },
+            {
+              "label": "10 对莱昂纳多·阿莱廷诺之死开的玩笑",
+              "file": "ebook_source_split_085.html",
+              "block": 0,
+              "expect": "10 对莱昂纳多·阿莱廷诺之死开的玩笑"
+            },
+            {
+              "label": "11 马姆齐甜酒的寓言",
+              "file": "ebook_source_split_086.html",
+              "block": 0,
+              "expect": "11 马姆齐甜酒的寓言"
+            },
+            {
+              "label": "12 阿洛托教士于一个寒冷的夜晚在蓬塔谢韦所开的玩笑",
+              "file": "ebook_source_split_087.html",
+              "block": 0,
+              "expect": "12 阿洛托教士于一个寒冷的夜晚在蓬塔谢韦所开的玩笑"
+            },
+            {
+              "label": "13 世上最干净的工匠",
+              "file": "ebook_source_split_088.html",
+              "block": 0,
+              "expect": "13 世上最干净的工匠"
+            },
+            {
+              "label": "14 阿洛托教士向一个自诩聪明的人提出的问题",
+              "file": "ebook_source_split_089.html",
+              "block": 0,
+              "expect": "14 阿洛托教士向一个自诩聪明的人提出的问题"
+            },
+            {
+              "label": "15 对堂·卢波的布道",
+              "file": "ebook_source_split_090.html",
+              "block": 0,
+              "expect": "15 对堂·卢波的布道"
+            },
+            {
+              "label": "16 阿洛托教士为一个生病的裁缝做忏悔",
+              "file": "ebook_source_split_091.html",
+              "block": 0,
+              "expect": "16 阿洛托教士为一个生病的裁缝做忏悔"
+            },
+            {
+              "label": "17 一个希望通过出售用过的网球致富的教士， 阿洛托教士则告诉他老鼠的故事",
+              "file": "ebook_source_split_092.html",
+              "block": 0,
+              "expect": "17 一个希望通过出售用过的网球致富的教士， 阿洛托教士则告诉他老鼠的故事"
+            },
+            {
+              "label": "18 对某些说阿洛托家坏话的妇女的回答",
+              "file": "ebook_source_split_093.html",
+              "block": 0,
+              "expect": "18 对某些说阿洛托家坏话的妇女的回答"
+            },
+            {
+              "label": "19 阿洛托教士戏弄来自阿雷佐的卡农·罗塞洛——来自法国的教廷税官",
+              "file": "ebook_source_split_094.html",
+              "block": 0,
+              "expect": "19 阿洛托教士戏弄来自阿雷佐的卡农·罗塞洛——来自法国的教廷税官"
+            },
+            {
+              "label": "20 10 位发了疯的天才星相家",
+              "file": "ebook_source_split_095.html",
+              "block": 0,
+              "expect": "20 10 位发了疯的天才星相家"
+            },
+            {
+              "label": "21 阿洛托教士对一位吝啬的朋友的巧妙回答",
+              "file": "ebook_source_split_096.html",
+              "block": 0,
+              "expect": "21 阿洛托教士对一位吝啬的朋友的巧妙回答"
+            },
+            {
+              "label": "22 干南瓜",
+              "file": "ebook_source_split_097.html",
+              "block": 0,
+              "expect": "22 干南瓜"
+            },
+            {
+              "label": "23 对一个向阿洛托教士发火的农夫的回答",
+              "file": "ebook_source_split_098.html",
+              "block": 0,
+              "expect": "23 对一个向阿洛托教士发火的农夫的回答"
+            },
+            {
+              "label": "24 风把备忘录刮到了海里",
+              "file": "ebook_source_split_099.html",
+              "block": 0,
+              "expect": "24 风把备忘录刮到了海里"
+            },
+            {
+              "label": "25 阿洛托教士耍弄税官",
+              "file": "ebook_source_split_100.html",
+              "block": 0,
+              "expect": "25 阿洛托教士耍弄税官"
+            },
+            {
+              "label": "26 阿洛托教士为什么在洗脸时打喷嚏",
+              "file": "ebook_source_split_101.html",
+              "block": 0,
+              "expect": "26 阿洛托教士为什么在洗脸时打喷嚏"
+            },
+            {
+              "label": "27 阿洛托教士教训一个小偷",
+              "file": "ebook_source_split_102.html",
+              "block": 0,
+              "expect": "27 阿洛托教士教训一个小偷"
+            },
+            {
+              "label": "28 阿洛托教士的低产地",
+              "file": "ebook_source_split_103.html",
+              "block": 0,
+              "expect": "28 阿洛托教士的低产地"
+            },
+            {
+              "label": "29 打咕噜的伐木工",
+              "file": "ebook_source_split_104.html",
+              "block": 0,
+              "expect": "29 打咕噜的伐木工"
+            },
+            {
+              "label": "30 阿洛托教士去赴赛尔西那的教士的宴",
+              "file": "ebook_source_split_105.html",
+              "block": 0,
+              "expect": "30 阿洛托教士去赴赛尔西那的教士的宴"
+            },
+            {
+              "label": "31 一个不知道到底要不要庆祝节日的农夫",
+              "file": "ebook_source_split_106.html",
+              "block": 0,
+              "expect": "31 一个不知道到底要不要庆祝节日的农夫"
+            },
+            {
+              "label": "32 阿洛托教士教一只老鼠去抓老鼠",
+              "file": "ebook_source_split_107.html",
+              "block": 0,
+              "expect": "32 阿洛托教士教一只老鼠去抓老鼠"
+            },
+            {
+              "label": "33 早上的祷告",
+              "file": "ebook_source_split_108.html",
+              "block": 0,
+              "expect": "33 早上的祷告"
+            },
+            {
+              "label": "34 画眉比香肠好",
+              "file": "ebook_source_split_109.html",
+              "block": 0,
+              "expect": "34 画眉比香肠好"
+            },
+            {
+              "label": "35 为阿洛托教士唱歌的布谷鸟",
+              "file": "ebook_source_split_110.html",
+              "block": 0,
+              "expect": "35 为阿洛托教士唱歌的布谷鸟"
+            },
+            {
+              "label": "36 对一个想要一些小麦的农夫的妙答",
+              "file": "ebook_source_split_111.html",
+              "block": 0,
+              "expect": "36 对一个想要一些小麦的农夫的妙答"
+            },
+            {
+              "label": "37 阿洛托教士用油来祝福一些搞恶作剧的家伙",
+              "file": "ebook_source_split_112.html",
+              "block": 0,
+              "expect": "37 阿洛托教士用油来祝福一些搞恶作剧的家伙"
+            },
+            {
+              "label": "38 阿洛托教士为自己写的墓志铭",
+              "file": "ebook_source_split_113.html",
+              "block": 0,
+              "expect": "38 阿洛托教士为自己写的墓志铭"
+            }
+          ]
+        },
+        {
+          "label": "IV 安吉洛·波利齐亚诺",
+          "file": "ebook_source_split_113.html",
+          "block": 9,
+          "expect": "安吉洛·波利齐亚诺",
+          "children": [
+            {
+              "label": "1 为什么教士们能把它一脚踢开",
+              "file": "ebook_source_split_114.html",
+              "block": 0,
+              "expect": "1 为什么教士们能把它一脚踢开"
+            },
+            {
+              "label": "2 傻子就像肾脏一样",
+              "file": "ebook_source_split_115.html",
+              "block": 0,
+              "expect": "2 傻子就像肾脏一样"
+            },
+            {
+              "label": "3 一个非常肥胖的人",
+              "file": "ebook_source_split_116.html",
+              "block": 0,
+              "expect": "3 一个非常肥胖的人"
+            },
+            {
+              "label": "4 没有视野的房间",
+              "file": "ebook_source_split_117.html",
+              "block": 0,
+              "expect": "4 没有视野的房间"
+            },
+            {
+              "label": "5 绞刑时的妙语",
+              "file": "ebook_source_split_118.html",
+              "block": 0,
+              "expect": "5 绞刑时的妙语"
+            },
+            {
+              "label": "6 艺术上的对手",
+              "file": "ebook_source_split_119.html",
+              "block": 0,
+              "expect": "6 艺术上的对手"
+            },
+            {
+              "label": "7 多纳泰罗和加塔梅拉塔的塑像",
+              "file": "ebook_source_split_120.html",
+              "block": 0,
+              "expect": "7 多纳泰罗和加塔梅拉塔的塑像"
+            },
+            {
+              "label": "8 科西莫·德·美第奇和农夫",
+              "file": "ebook_source_split_121.html",
+              "block": 0,
+              "expect": "8 科西莫·德·美第奇和农夫"
+            },
+            {
+              "label": "9 梦能比现实更有价值",
+              "file": "ebook_source_split_122.html",
+              "block": 0,
+              "expect": "9 梦能比现实更有价值"
+            },
+            {
+              "label": "10 但丁的妙语",
+              "file": "ebook_source_split_123.html",
+              "block": 0,
+              "expect": "10 但丁的妙语"
+            },
+            {
+              "label": "11 有新补丁的旧外套",
+              "file": "ebook_source_split_124.html",
+              "block": 0,
+              "expect": "11 有新补丁的旧外套"
+            },
+            {
+              "label": "12 大卷心菜和大锅",
+              "file": "ebook_source_split_125.html",
+              "block": 0,
+              "expect": "12 大卷心菜和大锅"
+            },
+            {
+              "label": "13 从不送人去地狱的牧师",
+              "file": "ebook_source_split_126.html",
+              "block": 0,
+              "expect": "13 从不送人去地狱的牧师"
+            },
+            {
+              "label": "14 但丁的辛辣反驳",
+              "file": "ebook_source_split_127.html",
+              "block": 0,
+              "expect": "14 但丁的辛辣反驳"
+            },
+            {
+              "label": "15 不要问我问题……",
+              "file": "ebook_source_split_128.html",
+              "block": 0,
+              "expect": "15 不要问我问题……"
+            },
+            {
+              "label": "16 长着一对斗鸡眼的学生",
+              "file": "ebook_source_split_129.html",
+              "block": 0,
+              "expect": "16 长着一对斗鸡眼的学生"
+            },
+            {
+              "label": "17 母鸡离了巢就不能孵蛋",
+              "file": "ebook_source_split_130.html",
+              "block": 0,
+              "expect": "17 母鸡离了巢就不能孵蛋"
+            },
+            {
+              "label": "18 傻子是最快乐的人",
+              "file": "ebook_source_split_131.html",
+              "block": 0,
+              "expect": "18 傻子是最快乐的人"
+            },
+            {
+              "label": "19 聪明女人和笨女人的差别",
+              "file": "ebook_source_split_132.html",
+              "block": 0,
+              "expect": "19 聪明女人和笨女人的差别"
+            },
+            {
+              "label": "20 为什么巴尔托洛梅奥阁下晚年娶妻",
+              "file": "ebook_source_split_133.html",
+              "block": 0,
+              "expect": "20 为什么巴尔托洛梅奥阁下晚年娶妻"
+            },
+            {
+              "label": "21 为什么应该娶一位年少的妻子",
+              "file": "ebook_source_split_134.html",
+              "block": 0,
+              "expect": "21 为什么应该娶一位年少的妻子"
+            },
+            {
+              "label": "22 对佛罗伦萨人的挖苦",
+              "file": "ebook_source_split_135.html",
+              "block": 0,
+              "expect": "22 对佛罗伦萨人的挖苦"
+            },
+            {
+              "label": "23 戏弄佛罗伦萨人是很不明智的",
+              "file": "ebook_source_split_136.html",
+              "block": 0,
+              "expect": "23 戏弄佛罗伦萨人是很不明智的"
+            },
+            {
+              "label": "24 皮耶罗·德·美第奇的妙语",
+              "file": "ebook_source_split_137.html",
+              "block": 0,
+              "expect": "24 皮耶罗·德·美第奇的妙语"
+            },
+            {
+              "label": "25 他用不着有修养的妇女",
+              "file": "ebook_source_split_138.html",
+              "block": 0,
+              "expect": "25 他用不着有修养的妇女"
+            },
+            {
+              "label": "26 科西莫·德·美第奇的远见",
+              "file": "ebook_source_split_139.html",
+              "block": 0,
+              "expect": "26 科西莫·德·美第奇的远见"
+            },
+            {
+              "label": "27 成为一个美丽女人的条件",
+              "file": "ebook_source_split_140.html",
+              "block": 0,
+              "expect": "27 成为一个美丽女人的条件"
+            },
+            {
+              "label": "28 正义如水",
+              "file": "ebook_source_split_141.html",
+              "block": 0,
+              "expect": "28 正义如水"
+            },
+            {
+              "label": "29 派系争斗",
+              "file": "ebook_source_split_142.html",
+              "block": 0,
+              "expect": "29 派系争斗"
+            },
+            {
+              "label": "30 一位按星相学行事的公爵",
+              "file": "ebook_source_split_143.html",
+              "block": 0,
+              "expect": "30 一位按星相学行事的公爵"
+            },
+            {
+              "label": "31 制服并不能成就士兵",
+              "file": "ebook_source_split_144.html",
+              "block": 0,
+              "expect": "31 制服并不能成就士兵"
+            },
+            {
+              "label": "32 魔鬼没教他这一套!",
+              "file": "ebook_source_split_145.html",
+              "block": 0,
+              "expect": "32 魔鬼没教他这一套!"
+            },
+            {
+              "label": "33 我俩相视而笑",
+              "file": "ebook_source_split_146.html",
+              "block": 0,
+              "expect": "33 我俩相视而笑"
+            },
+            {
+              "label": "34 一个尴尬的油渍",
+              "file": "ebook_source_split_147.html",
+              "block": 0,
+              "expect": "34 一个尴尬的油渍"
+            },
+            {
+              "label": "35 对教皇约翰的审判",
+              "file": "ebook_source_split_148.html",
+              "block": 0,
+              "expect": "35 对教皇约翰的审判"
+            },
+            {
+              "label": "36 一个淫荡的女人",
+              "file": "ebook_source_split_149.html",
+              "block": 0,
+              "expect": "36 一个淫荡的女人"
+            },
+            {
+              "label": "37 一个吝啬的人",
+              "file": "ebook_source_split_150.html",
+              "block": 0,
+              "expect": "37 一个吝啬的人"
+            },
+            {
+              "label": "38 某个贵族的妙答",
+              "file": "ebook_source_split_151.html",
+              "block": 0,
+              "expect": "38 某个贵族的妙答"
+            },
+            {
+              "label": "39 洛伦佐·德·美第奇对一个大肚汉的回答",
+              "file": "ebook_source_split_152.html",
+              "block": 0,
+              "expect": "39 洛伦佐·德·美第奇对一个大肚汉的回答"
+            },
+            {
+              "label": "40 我不干了！你被解雇了！反过来也一样",
+              "file": "ebook_source_split_153.html",
+              "block": 0,
+              "expect": "40 我不干了！你被解雇了！反过来也一样"
+            },
+            {
+              "label": "41 小男孩的想象力",
+              "file": "ebook_source_split_154.html",
+              "block": 0,
+              "expect": "41 小男孩的想象力"
+            },
+            {
+              "label": "42 一个愚蠢的传教士",
+              "file": "ebook_source_split_155.html",
+              "block": 0,
+              "expect": "42 一个愚蠢的传教士"
+            },
+            {
+              "label": "43 一个过于心急的小男孩",
+              "file": "ebook_source_split_156.html",
+              "block": 0,
+              "expect": "43 一个过于心急的小男孩"
+            },
+            {
+              "label": "44 一个反应灵敏的农夫",
+              "file": "ebook_source_split_157.html",
+              "block": 0,
+              "expect": "44 一个反应灵敏的农夫"
+            },
+            {
+              "label": "45 愚蠢的问题就该得到愚蠢的回答",
+              "file": "ebook_source_split_158.html",
+              "block": 0,
+              "expect": "45 愚蠢的问题就该得到愚蠢的回答"
+            },
+            {
+              "label": "46 两位威尼斯使节的俏皮话",
+              "file": "ebook_source_split_159.html",
+              "block": 0,
+              "expect": "46 两位威尼斯使节的俏皮话"
+            },
+            {
+              "label": "47 某些佛罗伦萨人的辛辣回复",
+              "file": "ebook_source_split_160.html",
+              "block": 0,
+              "expect": "47 某些佛罗伦萨人的辛辣回复"
+            },
+            {
+              "label": "48 多此一举",
+              "file": "ebook_source_split_161.html",
+              "block": 0,
+              "expect": "48 多此一举"
+            },
+            {
+              "label": "49 朱利亚尼·冈迪给卡拉布里亚公爵的回答",
+              "file": "ebook_source_split_162.html",
+              "block": 0,
+              "expect": "49 朱利亚尼·冈迪给卡拉布里亚公爵的回答"
+            },
+            {
+              "label": "50 桑德罗·波提切利的妙语",
+              "file": "ebook_source_split_163.html",
+              "block": 0,
+              "expect": "50 桑德罗·波提切利的妙语"
+            },
+            {
+              "label": "51 女人应该感谢上帝",
+              "file": "ebook_source_split_164.html",
+              "block": 0,
+              "expect": "51 女人应该感谢上帝"
+            }
+          ]
+        },
+        {
+          "label": "V 尼科洛·安杰利·达尔·布奇内",
+          "file": "ebook_source_split_164.html",
+          "block": 4,
+          "expect": "尼科洛·安杰利·达尔·布奇内",
+          "children": [
+            {
+              "label": "1 一个带着非常锋利的铁尖到处行乞的年轻人",
+              "file": "ebook_source_split_165.html",
+              "block": 0,
+              "expect": "1 一个带着非常锋利的铁尖到处行乞的年轻人"
+            },
+            {
+              "label": "2 糟糕的是他只喝了一杯酒",
+              "file": "ebook_source_split_166.html",
+              "block": 0,
+              "expect": "2 糟糕的是他只喝了一杯酒"
+            },
+            {
+              "label": "3 阿方索国王跟卢克丽霞睡觉了吗?",
+              "file": "ebook_source_split_167.html",
+              "block": 0,
+              "expect": "3 阿方索国王跟卢克丽霞睡觉了吗?"
+            },
+            {
+              "label": "4 士兵就如蜜蜂",
+              "file": "ebook_source_split_168.html",
+              "block": 0,
+              "expect": "4 士兵就如蜜蜂"
+            },
+            {
+              "label": "5 为什么金泰乐·德利·艾尔比兹下跳棋下的很慢",
+              "file": "ebook_source_split_169.html",
+              "block": 0,
+              "expect": "5 为什么金泰乐·德利·艾尔比兹下跳棋下的很慢"
+            },
+            {
+              "label": "6 一位要一个傻子说 “平安” 的修道士",
+              "file": "ebook_source_split_170.html",
+              "block": 0,
+              "expect": "6 一位要一个傻子说 “平安” 的修道士"
+            },
+            {
+              "label": "7 弗朗西斯科·斯福扎的英勇",
+              "file": "ebook_source_split_170.html",
+              "block": 4,
+              "expect": "7 弗朗西斯科·斯福扎的英勇"
+            },
+            {
+              "label": "8 为什么一个 30 岁的人在做好丈夫方面 不如年轻人",
+              "file": "ebook_source_split_171.html",
+              "block": 0,
+              "expect": "8 为什么一个 30 岁的人在做好丈夫方面 不如年轻人"
+            },
+            {
+              "label": "9 为什么美第奇在的宫殿风景很好",
+              "file": "ebook_source_split_172.html",
+              "block": 0,
+              "expect": "9 为什么美第奇在的宫殿风景很好"
+            },
+            {
+              "label": "10 为什么盖拉尔多大师自认为能画出美丽的画",
+              "file": "ebook_source_split_173.html",
+              "block": 0,
+              "expect": "10 为什么盖拉尔多大师自认为能画出美丽的画"
+            },
+            {
+              "label": "11 一个被强暴的女人",
+              "file": "ebook_source_split_174.html",
+              "block": 0,
+              "expect": "11 一个被强暴的女人"
+            },
+            {
+              "label": "12 多纳泰罗是如何看待同行的作品的",
+              "file": "ebook_source_split_175.html",
+              "block": 0,
+              "expect": "12 多纳泰罗是如何看待同行的作品的"
+            },
+            {
+              "label": "13 一个想赊账买钱包的人",
+              "file": "ebook_source_split_176.html",
+              "block": 0,
+              "expect": "13 一个想赊账买钱包的人"
+            }
+          ]
+        },
+        {
+          "label": "VI 乔万尼·蓬塔诺",
+          "file": "ebook_source_split_176.html",
+          "block": 5,
+          "expect": "乔万尼·蓬塔诺",
+          "children": [
+            {
+              "label": "1 琴瑟和谐的先决条件",
+              "file": "ebook_source_split_177.html",
+              "block": 0,
+              "expect": "1 琴瑟和谐的先决条件"
+            },
+            {
+              "label": "2 叫医生到客栈里来的人",
+              "file": "ebook_source_split_178.html",
+              "block": 0,
+              "expect": "2 叫医生到客栈里来的人"
+            },
+            {
+              "label": "3 一个被人偷了马的人",
+              "file": "ebook_source_split_179.html",
+              "block": 0,
+              "expect": "3 一个被人偷了马的人"
+            },
+            {
+              "label": "4 奥尔良公爵赞扬自己丑妻的美丽",
+              "file": "ebook_source_split_180.html",
+              "block": 0,
+              "expect": "4 奥尔良公爵赞扬自己丑妻的美丽"
+            },
+            {
+              "label": "5 一个娶了好吵架的妻子的人",
+              "file": "ebook_source_split_181.html",
+              "block": 0,
+              "expect": "5 一个娶了好吵架的妻子的人"
+            },
+            {
+              "label": "6 小鸭子对这么多绅士来说太小了",
+              "file": "ebook_source_split_182.html",
+              "block": 0,
+              "expect": "6 小鸭子对这么多绅士来说太小了"
+            },
+            {
+              "label": "7 卷发男人的特征",
+              "file": "ebook_source_split_183.html",
+              "block": 0,
+              "expect": "7 卷发男人的特征"
+            },
+            {
+              "label": "8 为什么马林·布兰卡西奥没跟那不勒斯国王去西西里",
+              "file": "ebook_source_split_184.html",
+              "block": 0,
+              "expect": "8 为什么马林·布兰卡西奥没跟那不勒斯国王去西西里"
+            },
+            {
+              "label": "9 为什么贝尔纳多·瓦伊塔尔要在吃狗鱼时戴眼镜",
+              "file": "ebook_source_split_185.html",
+              "block": 0,
+              "expect": "9 为什么贝尔纳多·瓦伊塔尔要在吃狗鱼时戴眼镜"
+            },
+            {
+              "label": "10 屠夫妻子的廉价肉",
+              "file": "ebook_source_split_186.html",
+              "block": 0,
+              "expect": "10 屠夫妻子的廉价肉"
+            },
+            {
+              "label": "11 治疗近视的灵丹妙药",
+              "file": "ebook_source_split_187.html",
+              "block": 0,
+              "expect": "11 治疗近视的灵丹妙药"
+            },
+            {
+              "label": "12 贡内拉如何向尼科洛侯爵证明 在费拉拉有一大帮医生",
+              "file": "ebook_source_split_188.html",
+              "block": 0,
+              "expect": "12 贡内拉如何向尼科洛侯爵证明 在费拉拉有一大帮医生"
+            },
+            {
+              "label": "13 贡内拉切掉了尼科洛侯爵的驴子的上唇",
+              "file": "ebook_source_split_189.html",
+              "block": 0,
+              "expect": "13 贡内拉切掉了尼科洛侯爵的驴子的上唇"
+            },
+            {
+              "label": "14 贡内拉被一个农家女孩耍弄",
+              "file": "ebook_source_split_190.html",
+              "block": 0,
+              "expect": "14 贡内拉被一个农家女孩耍弄"
+            },
+            {
+              "label": "15 突尼斯国王在进餐时让人把一堆骨头 丢在奎拉尔多的脚边",
+              "file": "ebook_source_split_191.html",
+              "block": 0,
+              "expect": "15 突尼斯国王在进餐时让人把一堆骨头 丢在奎拉尔多的脚边"
+            },
+            {
+              "label": "16 奎拉尔多朝国王的仆人的脸上吐痰",
+              "file": "ebook_source_split_192.html",
+              "block": 0,
+              "expect": "16 奎拉尔多朝国王的仆人的脸上吐痰"
+            },
+            {
+              "label": "17 玛丽奥塔给她那好色丈夫上了一课",
+              "file": "ebook_source_split_193.html",
+              "block": 0,
+              "expect": "17 玛丽奥塔给她那好色丈夫上了一课"
+            }
+          ]
+        },
+        {
+          "label": "VII 列奥纳多·达·芬奇",
+          "file": "ebook_source_split_193.html",
+          "block": 5,
+          "expect": "列奥纳多·达·芬奇",
+          "children": [
+            {
+              "label": "1 两位修士，一个商人和一只鸡",
+              "file": "ebook_source_split_194.html",
+              "block": 0,
+              "expect": "1 两位修士，一个商人和一只鸡"
+            },
+            {
+              "label": "2 画家的祝福",
+              "file": "ebook_source_split_195.html",
+              "block": 0,
+              "expect": "2 画家的祝福"
+            },
+            {
+              "label": "3 毕达哥拉斯是对的",
+              "file": "ebook_source_split_196.html",
+              "block": 0,
+              "expect": "3 毕达哥拉斯是对的"
+            },
+            {
+              "label": "4 有远见的朋友",
+              "file": "ebook_source_split_197.html",
+              "block": 0,
+              "expect": "4 有远见的朋友"
+            },
+            {
+              "label": "5 将死之人的慰藉",
+              "file": "ebook_source_split_198.html",
+              "block": 0,
+              "expect": "5 将死之人的慰藉"
+            },
+            {
+              "label": "6 牵强的理由",
+              "file": "ebook_source_split_199.html",
+              "block": 0,
+              "expect": "6 牵强的理由"
+            },
+            {
+              "label": "7 观点",
+              "file": "ebook_source_split_200.html",
+              "block": 0,
+              "expect": "7 观点"
+            },
+            {
+              "label": "8 不正直的火",
+              "file": "ebook_source_split_201.html",
+              "block": 0,
+              "expect": "8 不正直的火"
+            },
+            {
+              "label": "9 爱的证据",
+              "file": "ebook_source_split_202.html",
+              "block": 0,
+              "expect": "9 爱的证据"
+            },
+            {
+              "label": "10 他的丑陋就是充分的证据",
+              "file": "ebook_source_split_203.html",
+              "block": 0,
+              "expect": "10 他的丑陋就是充分的证据"
+            }
+          ]
+        },
+        {
+          "label": "VIII 卢多维科·多米尼奇",
+          "file": "ebook_source_split_203.html",
+          "block": 3,
+          "expect": "卢多维科·多米尼奇",
+          "children": [
+            {
+              "label": "1 老妇人的祈祷",
+              "file": "ebook_source_split_204.html",
+              "block": 0,
+              "expect": "1 老妇人的祈祷"
+            },
+            {
+              "label": "2 去世的丈夫",
+              "file": "ebook_source_split_205.html",
+              "block": 0,
+              "expect": "2 去世的丈夫"
+            },
+            {
+              "label": "3 不大声喊叫的修女",
+              "file": "ebook_source_split_206.html",
+              "block": 0,
+              "expect": "3 不大声喊叫的修女"
+            },
+            {
+              "label": "4 拉斐尔的两幅画像",
+              "file": "ebook_source_split_207.html",
+              "block": 0,
+              "expect": "4 拉斐尔的两幅画像"
+            },
+            {
+              "label": "5 通奸的妻子",
+              "file": "ebook_source_split_208.html",
+              "block": 0,
+              "expect": "5 通奸的妻子"
+            },
+            {
+              "label": "6 水中的女人",
+              "file": "ebook_source_split_209.html",
+              "block": 0,
+              "expect": "6 水中的女人"
+            },
+            {
+              "label": "7 小偷应该更懂事一些",
+              "file": "ebook_source_split_210.html",
+              "block": 0,
+              "expect": "7 小偷应该更懂事一些"
+            },
+            {
+              "label": "8 “有一座摇摇欲坠的旧磨坊”",
+              "file": "ebook_source_split_211.html",
+              "block": 0,
+              "expect": "8 “有一座摇摇欲坠的旧磨坊”"
+            },
+            {
+              "label": "9 四个年轻的新娘",
+              "file": "ebook_source_split_212.html",
+              "block": 0,
+              "expect": "9 四个年轻的新娘"
+            },
+            {
+              "label": "10 一条肥裤子",
+              "file": "ebook_source_split_213.html",
+              "block": 0,
+              "expect": "10 一条肥裤子"
+            },
+            {
+              "label": "11 不想结婚的女儿",
+              "file": "ebook_source_split_214.html",
+              "block": 0,
+              "expect": "11 不想结婚的女儿"
+            },
+            {
+              "label": "12 长鼻子女孩",
+              "file": "ebook_source_split_215.html",
+              "block": 0,
+              "expect": "12 长鼻子女孩"
+            },
+            {
+              "label": "13 罗马的小偷们",
+              "file": "ebook_source_split_216.html",
+              "block": 0,
+              "expect": "13 罗马的小偷们"
+            },
+            {
+              "label": "14 单调的选择",
+              "file": "ebook_source_split_217.html",
+              "block": 0,
+              "expect": "14 单调的选择"
+            },
+            {
+              "label": "15 向一个老妓致敬的廷臣",
+              "file": "ebook_source_split_218.html",
+              "block": 0,
+              "expect": "15 向一个老妓致敬的廷臣"
+            },
+            {
+              "label": "16 被偷走的阉鸡",
+              "file": "ebook_source_split_219.html",
+              "block": 0,
+              "expect": "16 被偷走的阉鸡"
+            },
+            {
+              "label": "17 头发白，胡子黑",
+              "file": "ebook_source_split_220.html",
+              "block": 0,
+              "expect": "17 头发白，胡子黑"
+            },
+            {
+              "label": "18 米开朗琪罗的报复",
+              "file": "ebook_source_split_221.html",
+              "block": 0,
+              "expect": "18 米开朗琪罗的报复"
+            },
+            {
+              "label": "19 马基雅维利的即兴创作",
+              "file": "ebook_source_split_222.html",
+              "block": 0,
+              "expect": "19 马基雅维利的即兴创作"
+            },
+            {
+              "label": "20 结了婚的蛋",
+              "file": "ebook_source_split_223.html",
+              "block": 0,
+              "expect": "20 结了婚的蛋"
+            },
+            {
+              "label": "21 拉斐尔对某位女士的回答",
+              "file": "ebook_source_split_224.html",
+              "block": 0,
+              "expect": "21 拉斐尔对某位女士的回答"
+            },
+            {
+              "label": "22 一件真正的古董",
+              "file": "ebook_source_split_225.html",
+              "block": 0,
+              "expect": "22 一件真正的古董"
+            },
+            {
+              "label": "23 有缺陷的十四行诗",
+              "file": "ebook_source_split_226.html",
+              "block": 0,
+              "expect": "23 有缺陷的十四行诗"
+            },
+            {
+              "label": "24 某人和一头驴子的年龄",
+              "file": "ebook_source_split_227.html",
+              "block": 0,
+              "expect": "24 某人和一头驴子的年龄"
+            },
+            {
+              "label": "25 某个妓女对某位女士的回答",
+              "file": "ebook_source_split_228.html",
+              "block": 0,
+              "expect": "25 某个妓女对某位女士的回答"
+            },
+            {
+              "label": "26 喧宾夺主",
+              "file": "ebook_source_split_229.html",
+              "block": 0,
+              "expect": "26 喧宾夺主"
+            },
+            {
+              "label": "27 一个吹嘘自己勾引年轻女子的年轻人",
+              "file": "ebook_source_split_230.html",
+              "block": 0,
+              "expect": "27 一个吹嘘自己勾引年轻女子的年轻人"
+            },
+            {
+              "label": "28 妻子的忏悔",
+              "file": "ebook_source_split_231.html",
+              "block": 0,
+              "expect": "28 妻子的忏悔"
+            },
+            {
+              "label": "29 遭遇海难的西西里人",
+              "file": "ebook_source_split_232.html",
+              "block": 0,
+              "expect": "29 遭遇海难的西西里人"
+            },
+            {
+              "label": "30 一个将要被绞死的人",
+              "file": "ebook_source_split_233.html",
+              "block": 0,
+              "expect": "30 一个将要被绞死的人"
+            },
+            {
+              "label": "31 盲人和处女",
+              "file": "ebook_source_split_234.html",
+              "block": 0,
+              "expect": "31 盲人和处女"
+            },
+            {
+              "label": "32 小丑和小鱼",
+              "file": "ebook_source_split_235.html",
+              "block": 0,
+              "expect": "32 小丑和小鱼"
+            },
+            {
+              "label": "33 丈夫的报复",
+              "file": "ebook_source_split_236.html",
+              "block": 0,
+              "expect": "33 丈夫的报复"
+            },
+            {
+              "label": "34 那不勒斯的阿方索国王和他的廷臣",
+              "file": "ebook_source_split_237.html",
+              "block": 0,
+              "expect": "34 那不勒斯的阿方索国王和他的廷臣"
+            },
+            {
+              "label": "35 像火炉一样温暖",
+              "file": "ebook_source_split_238.html",
+              "block": 0,
+              "expect": "35 像火炉一样温暖"
+            },
+            {
+              "label": "36 他活该被烧死",
+              "file": "ebook_source_split_239.html",
+              "block": 0,
+              "expect": "36 他活该被烧死"
+            },
+            {
+              "label": "37 割礼还是洗礼?",
+              "file": "ebook_source_split_240.html",
+              "block": 0,
+              "expect": "37 割礼还是洗礼?"
+            },
+            {
+              "label": "38 嘴的忠诚",
+              "file": "ebook_source_split_241.html",
+              "block": 0,
+              "expect": "38 嘴的忠诚"
+            },
+            {
+              "label": "39 他应该马上就把第一个花瓶还回来",
+              "file": "ebook_source_split_242.html",
+              "block": 0,
+              "expect": "39 他应该马上就把第一个花瓶还回来"
+            },
+            {
+              "label": "40 牢中的生活不是生活",
+              "file": "ebook_source_split_243.html",
+              "block": 0,
+              "expect": "40 牢中的生活不是生活"
+            },
+            {
+              "label": "41 不是任何东西都能被弄直的",
+              "file": "ebook_source_split_244.html",
+              "block": 0,
+              "expect": "41 不是任何东西都能被弄直的"
+            },
+            {
+              "label": "42 他不是个好医生",
+              "file": "ebook_source_split_245.html",
+              "block": 0,
+              "expect": "42 他不是个好医生"
+            },
+            {
+              "label": "43 辛辣的反驳",
+              "file": "ebook_source_split_246.html",
+              "block": 0,
+              "expect": "43 辛辣的反驳"
+            },
+            {
+              "label": "44 红衣主教伊波利托·德·美第奇的慷慨",
+              "file": "ebook_source_split_247.html",
+              "block": 0,
+              "expect": "44 红衣主教伊波利托·德·美第奇的慷慨"
+            },
+            {
+              "label": "45 医生和画家的争吵",
+              "file": "ebook_source_split_248.html",
+              "block": 0,
+              "expect": "45 医生和画家的争吵"
+            },
+            {
+              "label": "46 但丁·阿利盖利的对答如流",
+              "file": "ebook_source_split_249.html",
+              "block": 0,
+              "expect": "46 但丁·阿利盖利的对答如流"
+            },
+            {
+              "label": "47 年轻的妻子",
+              "file": "ebook_source_split_250.html",
+              "block": 0,
+              "expect": "47 年轻的妻子"
+            },
+            {
+              "label": "48 煎蛋就像酥饼那样薄",
+              "file": "ebook_source_split_251.html",
+              "block": 0,
+              "expect": "48 煎蛋就像酥饼那样薄"
+            },
+            {
+              "label": "49 马可阁下的骡子",
+              "file": "ebook_source_split_252.html",
+              "block": 0,
+              "expect": "49 马可阁下的骡子"
+            },
+            {
+              "label": "50 一个男孩的墓志铭",
+              "file": "ebook_source_split_253.html",
+              "block": 0,
+              "expect": "50 一个男孩的墓志铭"
+            },
+            {
+              "label": "51 卖淫并不是传染病",
+              "file": "ebook_source_split_254.html",
+              "block": 0,
+              "expect": "51 卖淫并不是传染病"
+            },
+            {
+              "label": "52 对一位漂亮女士的赞美",
+              "file": "ebook_source_split_255.html",
+              "block": 0,
+              "expect": "52 对一位漂亮女士的赞美"
+            },
+            {
+              "label": "53 阿方索国王是如何评价中立者的",
+              "file": "ebook_source_split_256.html",
+              "block": 0,
+              "expect": "53 阿方索国王是如何评价中立者的"
+            },
+            {
+              "label": "54 死人比活着时更活泼",
+              "file": "ebook_source_split_257.html",
+              "block": 0,
+              "expect": "54 死人比活着时更活泼"
+            },
+            {
+              "label": "55 动物比人聪明",
+              "file": "ebook_source_split_258.html",
+              "block": 0,
+              "expect": "55 动物比人聪明"
+            },
+            {
+              "label": "56 皇帝高于其他人",
+              "file": "ebook_source_split_259.html",
+              "block": 0,
+              "expect": "56 皇帝高于其他人"
+            },
+            {
+              "label": "57 卡斯特鲁乔·卡斯特拉卡内的妙答",
+              "file": "ebook_source_split_260.html",
+              "block": 0,
+              "expect": "57 卡斯特鲁乔·卡斯特拉卡内的妙答"
+            },
+            {
+              "label": "58 辛辣的回答",
+              "file": "ebook_source_split_261.html",
+              "block": 0,
+              "expect": "58 辛辣的回答"
+            },
+            {
+              "label": "59 他要的是酒而不是水",
+              "file": "ebook_source_split_262.html",
+              "block": 0,
+              "expect": "59 他要的是酒而不是水"
+            },
+            {
+              "label": "60 她本来可以很富有的",
+              "file": "ebook_source_split_263.html",
+              "block": 0,
+              "expect": "60 她本来可以很富有的"
+            },
+            {
+              "label": "61 鞋子比鞋匠所想的还合适",
+              "file": "ebook_source_split_264.html",
+              "block": 0,
+              "expect": "61 鞋子比鞋匠所想的还合适"
+            },
+            {
+              "label": "62 某个学生耍弄一个交际花",
+              "file": "ebook_source_split_265.html",
+              "block": 0,
+              "expect": "62 某个学生耍弄一个交际花"
+            },
+            {
+              "label": "63 他想要个年轻的妻子",
+              "file": "ebook_source_split_266.html",
+              "block": 0,
+              "expect": "63 他想要个年轻的妻子"
+            },
+            {
+              "label": "64 一个爱开玩笑的人的双关语",
+              "file": "ebook_source_split_267.html",
+              "block": 0,
+              "expect": "64 一个爱开玩笑的人的双关语"
+            },
+            {
+              "label": "65 亚历桑德鲁公爵的狗",
+              "file": "ebook_source_split_268.html",
+              "block": 0,
+              "expect": "65 亚历桑德鲁公爵的狗"
+            },
+            {
+              "label": "66 他刚去死",
+              "file": "ebook_source_split_269.html",
+              "block": 0,
+              "expect": "66 他刚去死"
+            },
+            {
+              "label": "67 这不是烤鳗鱼",
+              "file": "ebook_source_split_270.html",
+              "block": 0,
+              "expect": "67 这不是烤鳗鱼"
+            },
+            {
+              "label": "68 闷闷不乐的父亲",
+              "file": "ebook_source_split_271.html",
+              "block": 0,
+              "expect": "68 闷闷不乐的父亲"
+            },
+            {
+              "label": "69 但丁对一个妓女的妙答",
+              "file": "ebook_source_split_272.html",
+              "block": 0,
+              "expect": "69 但丁对一个妓女的妙答"
+            },
+            {
+              "label": "70 台伯河不应该起床",
+              "file": "ebook_source_split_273.html",
+              "block": 0,
+              "expect": "70 台伯河不应该起床"
+            },
+            {
+              "label": "71 他没脑子",
+              "file": "ebook_source_split_274.html",
+              "block": 0,
+              "expect": "71 他没脑子"
+            },
+            {
+              "label": "72 一个粗鲁的农夫",
+              "file": "ebook_source_split_275.html",
+              "block": 0,
+              "expect": "72 一个粗鲁的农夫"
+            },
+            {
+              "label": "73 国王知道得更清楚",
+              "file": "ebook_source_split_276.html",
+              "block": 0,
+              "expect": "73 国王知道得更清楚"
+            },
+            {
+              "label": "74 他没有完全违反亚里士多德的法则",
+              "file": "ebook_source_split_277.html",
+              "block": 0,
+              "expect": "74 他没有完全违反亚里士多德的法则"
+            },
+            {
+              "label": "75 仓促的判决",
+              "file": "ebook_source_split_278.html",
+              "block": 0,
+              "expect": "75 仓促的判决"
+            },
+            {
+              "label": "76 基督在朋友们中",
+              "file": "ebook_source_split_279.html",
+              "block": 0,
+              "expect": "76 基督在朋友们中"
+            },
+            {
+              "label": "77 歪诗",
+              "file": "ebook_source_split_280.html",
+              "block": 0,
+              "expect": "77 歪诗"
+            },
+            {
+              "label": "78 他不知廉耻",
+              "file": "ebook_source_split_281.html",
+              "block": 0,
+              "expect": "78 他不知廉耻"
+            },
+            {
+              "label": "79 为了债务",
+              "file": "ebook_source_split_282.html",
+              "block": 0,
+              "expect": "79 为了债务"
+            },
+            {
+              "label": "80 天国的欢乐",
+              "file": "ebook_source_split_283.html",
+              "block": 0,
+              "expect": "80 天国的欢乐"
+            },
+            {
+              "label": "81 一个真正的罗马人",
+              "file": "ebook_source_split_284.html",
+              "block": 0,
+              "expect": "81 一个真正的罗马人"
+            }
+          ]
+        },
+        {
+          "label": "IX 卢多维科·圭恰迪尼",
+          "file": "ebook_source_split_284.html",
+          "block": 3,
+          "expect": "卢多维科·圭恰迪尼",
+          "children": [
+            {
+              "label": "1 但愿他是傻瓜之王!",
+              "file": "ebook_source_split_285.html",
+              "block": 0,
+              "expect": "1 但愿他是傻瓜之王!"
+            },
+            {
+              "label": "2 多纳泰罗的报复",
+              "file": "ebook_source_split_286.html",
+              "block": 0,
+              "expect": "2 多纳泰罗的报复"
+            },
+            {
+              "label": "3 一个不能分享的秘密",
+              "file": "ebook_source_split_287.html",
+              "block": 0,
+              "expect": "3 一个不能分享的秘密"
+            },
+            {
+              "label": "4 一个快乐的王八",
+              "file": "ebook_source_split_288.html",
+              "block": 0,
+              "expect": "4 一个快乐的王八"
+            },
+            {
+              "label": "5 需要什么来发动一场战争",
+              "file": "ebook_source_split_289.html",
+              "block": 0,
+              "expect": "5 需要什么来发动一场战争"
+            },
+            {
+              "label": "6 卡泰丽娜伯爵夫人对那些威胁要杀了她的孩子们的谋反者的回答",
+              "file": "ebook_source_split_290.html",
+              "block": 0,
+              "expect": "6 卡泰丽娜伯爵夫人对那些威胁要杀了她的孩子们的谋反者的回答"
+            },
+            {
+              "label": "7 自负使人盲目",
+              "file": "ebook_source_split_291.html",
+              "block": 0,
+              "expect": "7 自负使人盲目"
+            },
+            {
+              "label": "8 因为母亲去世了，所以他不想听音乐",
+              "file": "ebook_source_split_292.html",
+              "block": 0,
+              "expect": "8 因为母亲去世了，所以他不想听音乐"
+            },
+            {
+              "label": "9 教皇格里高利对一个献媚者的回答",
+              "file": "ebook_source_split_293.html",
+              "block": 0,
+              "expect": "9 教皇格里高利对一个献媚者的回答"
+            },
+            {
+              "label": "10 关于复活日的妙语",
+              "file": "ebook_source_split_294.html",
+              "block": 0,
+              "expect": "10 关于复活日的妙语"
+            }
+          ]
+        },
+        {
+          "label": "X 两位诙谐之士：贡内拉和巴尔拉齐亚",
+          "file": "ebook_source_split_294.html",
+          "block": 3,
+          "expect": "两位诙谐之士：贡内拉和巴尔拉齐亚",
+          "children": [
+            {
+              "label": "贡内拉",
+              "file": "ebook_source_split_294.html",
+              "block": 9,
+              "expect": "贡内拉",
+              "children": [
+                {
+                  "label": "1 三个瞎子",
+                  "file": "ebook_source_split_295.html",
+                  "block": 0,
+                  "expect": "1 三个瞎子"
+                },
+                {
+                  "label": "2 所有女人都是诚实的",
+                  "file": "ebook_source_split_296.html",
+                  "block": 0,
+                  "expect": "2 所有女人都是诚实的"
+                },
+                {
+                  "label": "3 女人们的诚实是有限度的",
+                  "file": "ebook_source_split_297.html",
+                  "block": 0,
+                  "expect": "3 女人们的诚实是有限度的"
+                }
+              ]
+            },
+            {
+              "label": "巴尔拉齐亚",
+              "file": "ebook_source_split_297.html",
+              "block": 6,
+              "expect": "巴尔拉齐亚",
+              "children": [
+                {
+                  "label": "1 巴尔拉齐亚的红色紧身上衣",
+                  "file": "ebook_source_split_298.html",
+                  "block": 0,
+                  "expect": "1 巴尔拉齐亚的红色紧身上衣"
+                },
+                {
+                  "label": "2 为什么巴尔拉齐亚被拒绝进入地狱",
+                  "file": "ebook_source_split_299.html",
+                  "block": 0,
+                  "expect": "2 为什么巴尔拉齐亚被拒绝进入地狱"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "XI 巴尔达萨雷·卡斯蒂廖内",
+          "file": "ebook_source_split_299.html",
+          "block": 7,
+          "expect": "巴尔达萨雷·卡斯蒂廖内"
+        }
+      ]
+    }
+  ]
+}

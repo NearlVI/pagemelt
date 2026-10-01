@@ -1,0 +1,1391 @@
+{
+  "books": [
+    {
+      "file": "若干重大决策与事件的回顾（上、下） (薄一波) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "entries": [
+        {
+          "label": "前言",
+          "file": "ebook_source_split_001.html",
+          "block": 0,
+          "expect": "前言"
+        },
+        {
+          "label": "一 接管平、津",
+          "file": "ebook_source_split_001.html",
+          "block": 232,
+          "expect": "一 接管平、津",
+          "children": [
+            {
+              "label": "（一）革命高潮的到来和先期赴北平的任务",
+              "file": "ebook_source_split_001.html",
+              "block": 234,
+              "expect": "（一）革命高潮的到来和 先期赴北平的任务"
+            },
+            {
+              "label": "（二）毛主席的谈话和中央关于接管城市的指导方针",
+              "file": "ebook_source_split_001.html",
+              "block": 241,
+              "expect": "（二）毛主席的谈话和中央关于接管城市的指导方针"
+            },
+            {
+              "label": "（三）平、津的做法和经验",
+              "file": "ebook_source_split_001.html",
+              "block": 250,
+              "expect": "（三）平、津的做法和经验"
+            },
+            {
+              "label": "（四）进城以后乡村仍然是党必须关注的关键环节",
+              "file": "ebook_source_split_001.html",
+              "block": 283,
+              "expect": "（四）进城以后乡村仍然是党 必须关注的关键环节"
+            }
+          ]
+        },
+        {
+          "label": "二 新中国的建立",
+          "file": "ebook_source_split_001.html",
+          "block": 287,
+          "expect": "二 新中国的建立",
+          "children": [
+            {
+              "label": "（一）七届二中全会绘制的新中国建设蓝图",
+              "file": "ebook_source_split_001.html",
+              "block": 290,
+              "expect": "（一）七届二中全会绘制的新中国建设蓝图"
+            },
+            {
+              "label": "（二）关于《共同纲领》",
+              "file": "ebook_source_split_001.html",
+              "block": 312,
+              "expect": "（二）关于《共同纲领》"
+            },
+            {
+              "label": "（三）“一边倒”的外交格局",
+              "file": "ebook_source_split_001.html",
+              "block": 350,
+              "expect": "（三）“一边倒”的外交格局"
+            }
+          ]
+        },
+        {
+          "label": "三 刘少奇同志关于巩固新民主主义制度的构想",
+          "file": "ebook_source_split_001.html",
+          "block": 377,
+          "expect": "三 刘少奇同志关于巩固 新民主主义制度的构想",
+          "children": [
+            {
+              "label": "（一）进城前的思索",
+              "file": "ebook_source_split_001.html",
+              "block": 379,
+              "expect": "（一）进城前的思索"
+            },
+            {
+              "label": "（二）天津讲话及引起的风波",
+              "file": "ebook_source_split_001.html",
+              "block": 392,
+              "expect": "（二）天津讲话及引起的风波"
+            },
+            {
+              "label": "（三）春耦斋讲话",
+              "file": "ebook_source_split_001.html",
+              "block": 418,
+              "expect": "（三）春耦斋讲话"
+            },
+            {
+              "label": "（四）几点评说",
+              "file": "ebook_source_split_001.html",
+              "block": 429,
+              "expect": "(四) 几点评说"
+            }
+          ]
+        },
+        {
+          "label": "四 平抑物价，统一财经",
+          "file": "ebook_source_split_002.html",
+          "block": 13,
+          "expect": "四 平抑物价, 统一财经",
+          "children": [
+            {
+              "label": "（一）组建新中国经济工作的领导机构中财委",
+              "file": "ebook_source_split_002.html",
+              "block": 16,
+              "expect": "(一) 组建新中国经济工作的 领导机构中财委"
+            },
+            {
+              "label": "（二）金融物价的初步治理",
+              "file": "ebook_source_split_002.html",
+              "block": 26,
+              "expect": "（二）金融物价的初步治理"
+            },
+            {
+              "label": "（三）统一财政经济",
+              "file": "ebook_source_split_002.html",
+              "block": 57,
+              "expect": "（三）统一财政经济"
+            },
+            {
+              "label": "（四）初战胜利的经验",
+              "file": "ebook_source_split_002.html",
+              "block": 80,
+              "expect": "（四）初战胜利的经验"
+            }
+          ]
+        },
+        {
+          "label": "五 调整工商业",
+          "file": "ebook_source_split_002.html",
+          "block": 89,
+          "expect": "五 调整工商业",
+          "children": [
+            {
+              "label": "（一）紧缩银根后私营工商业遇到的困难",
+              "file": "ebook_source_split_002.html",
+              "block": 91,
+              "expect": "（一）紧缩银根后私营工商业遇到的困难"
+            },
+            {
+              "label": "（二）中央关于调整工商业的决策",
+              "file": "ebook_source_split_002.html",
+              "block": 112,
+              "expect": "（二）中央关于调整工商业的决策"
+            },
+            {
+              "label": "（三）调整工商业的措施和成效",
+              "file": "ebook_source_split_002.html",
+              "block": 126,
+              "expect": "（三）调整工商业的措施和成效"
+            }
+          ]
+        },
+        {
+          "label": "六 新区土改保存富农经济的政策",
+          "file": "ebook_source_split_002.html",
+          "block": 163,
+          "expect": "六 新区土改保存富农 经济的政策",
+          "children": [
+            {
+              "label": "（一）党对富农政策的历史演变",
+              "file": "ebook_source_split_002.html",
+              "block": 165,
+              "expect": "（一）党对富农政策的历史演变"
+            },
+            {
+              "label": "（二）民主决策的一个范例",
+              "file": "ebook_source_split_002.html",
+              "block": 193,
+              "expect": "（二）民主决策的一个范例"
+            },
+            {
+              "label": "（三）实施情况和效果",
+              "file": "ebook_source_split_002.html",
+              "block": 237,
+              "expect": "（三）实施情况和效果"
+            }
+          ]
+        },
+        {
+          "label": "七 贯彻防腐蚀方针，开展“三反”斗争",
+          "file": "ebook_source_split_002.html",
+          "block": 256,
+          "expect": "七 贯彻防腐蚀方针， 开展“三反”斗争",
+          "children": [
+            {
+              "label": "（一）在增产节约运动中察觉反腐蚀斗争的重要性",
+              "file": "ebook_source_split_002.html",
+              "block": 261,
+              "expect": "（一）在增产节约运动中察觉 反腐蚀斗争的重要性"
+            },
+            {
+              "label": "（二）发动群众，雷厉风行地进行“三反”斗争",
+              "file": "ebook_source_split_002.html",
+              "block": 269,
+              "expect": "（二）发动群众，雷厉风行地进行“三反”斗争"
+            },
+            {
+              "label": "（三）处决刘青山、张子善",
+              "file": "ebook_source_split_003.html",
+              "block": 15,
+              "expect": "（三）处决刘青山、张子善"
+            },
+            {
+              "label": "（四）不能忘记的历史启示",
+              "file": "ebook_source_split_003.html",
+              "block": 34,
+              "expect": "（四）不能忘记的历史启示"
+            }
+          ]
+        },
+        {
+          "label": "八 发动“五反”，打退不法资本家的猖狂进攻",
+          "file": "ebook_source_split_003.html",
+          "block": 60,
+          "expect": "八 发动“五反”，打退不法 资本家的猖狂进攻",
+          "children": [
+            {
+              "label": "（一）“五反”的发动",
+              "file": "ebook_source_split_003.html",
+              "block": 62,
+              "expect": "(一) “五反”的发动"
+            },
+            {
+              "label": "（二）关系全局的上海“五反”斗争",
+              "file": "ebook_source_split_003.html",
+              "block": 90,
+              "expect": "（二）关系全局的上海“五反”斗争"
+            },
+            {
+              "label": "（三）要让资本家重新靠拢我们",
+              "file": "ebook_source_split_003.html",
+              "block": 111,
+              "expect": "（三）要让资本家重新靠拢我们"
+            },
+            {
+              "label": "（四）在新的基础上调整工商业",
+              "file": "ebook_source_split_003.html",
+              "block": 124,
+              "expect": "（四）在新的基础上调整工商业"
+            }
+          ]
+        },
+        {
+          "label": "九 围绕山西发展农业生产合作社问题的争论",
+          "file": "ebook_source_split_003.html",
+          "block": 140,
+          "expect": "九 围绕山西发展农业生产 合作社问题的争论",
+          "children": [
+            {
+              "label": "（一）争论经过",
+              "file": "ebook_source_split_003.html",
+              "block": 142,
+              "expect": "(一) 争论经过"
+            },
+            {
+              "label": "（二）1950年争论的继续",
+              "file": "ebook_source_split_003.html",
+              "block": 178,
+              "expect": "（二）1950年争论的继续"
+            },
+            {
+              "label": "（三）今天的反思",
+              "file": "ebook_source_split_003.html",
+              "block": 204,
+              "expect": "（三）今天的反思"
+            }
+          ]
+        },
+        {
+          "label": "十 过渡时期总路线的酝酿和制定",
+          "file": "ebook_source_split_003.html",
+          "block": 229,
+          "expect": "十 过渡时期总路线的 酝酿和制定",
+          "children": [
+            {
+              "label": "（一）1952年秋后的酝酿",
+              "file": "ebook_source_split_003.html",
+              "block": 231,
+              "expect": "(一) 1952 年秋后的酝酿"
+            },
+            {
+              "label": "（二）总路线的提出和最后确定",
+              "file": "ebook_source_split_003.html",
+              "block": 269,
+              "expect": "（二）总路线的提出和最后确定"
+            },
+            {
+              "label": "（三）回顾中的思索",
+              "file": "ebook_source_split_004.html",
+              "block": 5,
+              "expect": "（三）回顾中的思索"
+            }
+          ]
+        },
+        {
+          "label": "十一 1953年夏季的全国财经工作会议",
+          "file": "ebook_source_split_004.html",
+          "block": 16,
+          "expect": "十一 1953 年夏季的全国 财经工作会议",
+          "children": [
+            {
+              "label": "（一）财经会议的起因：修正税制",
+              "file": "ebook_source_split_004.html",
+              "block": 18,
+              "expect": "（一）财经会议的起因：修正税制"
+            },
+            {
+              "label": "（二）财经会议的召开和会上对我的批评",
+              "file": "ebook_source_split_004.html",
+              "block": 40,
+              "expect": "（二）财经会议的召开和 会上对我的批评"
+            },
+            {
+              "label": "（三）周总理的结论和毛主席的讲话",
+              "file": "ebook_source_split_004.html",
+              "block": 54,
+              "expect": "（三）周总理的结论和毛主席的讲话"
+            },
+            {
+              "label": "（四）“误会”的解除",
+              "file": "ebook_source_split_004.html",
+              "block": 77,
+              "expect": "(四) “误会”的解除"
+            }
+          ]
+        },
+        {
+          "label": "十二 统购统销的实行",
+          "file": "ebook_source_split_004.html",
+          "block": 98,
+          "expect": "十二 统购统销的实行",
+          "children": [
+            {
+              "label": "（一）严峻的粮食购销形势",
+              "file": "ebook_source_split_004.html",
+              "block": 100,
+              "expect": "（一）严峻的粮食购销形势"
+            },
+            {
+              "label": "（二）两种“炸药”中的选择",
+              "file": "ebook_source_split_004.html",
+              "block": 111,
+              "expect": "（二）两种“炸药”中的选择"
+            },
+            {
+              "label": "（三）统购统销政策的基本内容",
+              "file": "ebook_source_split_004.html",
+              "block": 145,
+              "expect": "（三）统购统销政策的基本内容"
+            },
+            {
+              "label": "（四）统购统销制度的发展",
+              "file": "ebook_source_split_004.html",
+              "block": 160,
+              "expect": "（四）统购统销制度的发展"
+            },
+            {
+              "label": "（五）改革中的评说",
+              "file": "ebook_source_split_004.html",
+              "block": 182,
+              "expect": "（五）改革中的评说"
+            }
+          ]
+        },
+        {
+          "label": "十三 “一五”计划奠定了工业化的初步基础",
+          "file": "ebook_source_split_004.html",
+          "block": 194,
+          "expect": "十三 “一五”计划奠定了 工业化的初步基础",
+          "children": [
+            {
+              "label": "（一）“一五”计划的任务和编制过程",
+              "file": "ebook_source_split_004.html",
+              "block": 196,
+              "expect": "（一）“一五”计划的任务和编制过程"
+            },
+            {
+              "label": "（二）确立优先发展重工业的指导方针",
+              "file": "ebook_source_split_004.html",
+              "block": 219,
+              "expect": "（二）确立优先发展重工业的 指导方针"
+            },
+            {
+              "label": "（三）展开以“156项工程”为中心的工业布局",
+              "file": "ebook_source_split_004.html",
+              "block": 238,
+              "expect": "（三）展开以“156项工程” 为中心的工业布局"
+            },
+            {
+              "label": "（四）从实践中摸索的可贵经验",
+              "file": "ebook_source_split_004.html",
+              "block": 255,
+              "expect": "（四）从实践中摸索的可贵经验"
+            }
+          ]
+        },
+        {
+          "label": "十四 关于高、饶问题",
+          "file": "ebook_source_split_005.html",
+          "block": 14,
+          "expect": "十四 关于高、饶问题",
+          "children": [
+            {
+              "label": "（一）高、饶政治野心的膨胀",
+              "file": "ebook_source_split_005.html",
+              "block": 16,
+              "expect": "（一）高、饶政治野心的膨胀"
+            },
+            {
+              "label": "（二）高岗向党发难",
+              "file": "ebook_source_split_005.html",
+              "block": 23,
+              "expect": "（二）高岗向党发难"
+            },
+            {
+              "label": "（三）饶漱石紧密配合",
+              "file": "ebook_source_split_005.html",
+              "block": 39,
+              "expect": "（三）饶漱石紧密配合"
+            },
+            {
+              "label": "（四）高、饶问题的揭露和处理",
+              "file": "ebook_source_split_005.html",
+              "block": 47,
+              "expect": "（四）高、饶问题的揭露和处理"
+            },
+            {
+              "label": "（五）应该记取的教训",
+              "file": "ebook_source_split_005.html",
+              "block": 54,
+              "expect": "（五）应该记取的教训"
+            }
+          ]
+        },
+        {
+          "label": "十五 农业社会主义改造加速进行的转折点",
+          "file": "ebook_source_split_005.html",
+          "block": 64,
+          "expect": "十五 农业社会主义改造 加速进行的转折点",
+          "children": [
+            {
+              "label": "（一）关于浙江整顿和巩固合作社问题",
+              "file": "ebook_source_split_005.html",
+              "block": 72,
+              "expect": "（一）关于浙江整顿和 巩固合作社问题"
+            },
+            {
+              "label": "（二）农业合作化发展速度之争",
+              "file": "ebook_source_split_005.html",
+              "block": 118,
+              "expect": "（二）农业合作化发展速度之争"
+            },
+            {
+              "label": "（三）失误在哪里",
+              "file": "ebook_source_split_005.html",
+              "block": 168,
+              "expect": "（三）失误在哪里"
+            },
+            {
+              "label": "（四）对“五月变化”的一种分析",
+              "file": "ebook_source_split_005.html",
+              "block": 195,
+              "expect": "（四）对“五月变化”的一种分析"
+            }
+          ]
+        },
+        {
+          "label": "十六 《中国农村的社会主义高潮》的出版",
+          "file": "ebook_source_split_005.html",
+          "block": 228,
+          "expect": "十六 《中国农村的社会主义高潮》的出版",
+          "children": [
+            {
+              "label": "（一）为什么编这部书",
+              "file": "ebook_source_split_005.html",
+              "block": 230,
+              "expect": "（一）为什么编这部书"
+            },
+            {
+              "label": "（二）建国后的“第一次调查”",
+              "file": "ebook_source_split_005.html",
+              "block": 288,
+              "expect": "（二）建国后的“第一次调查”"
+            },
+            {
+              "label": "（三）是非评析",
+              "file": "ebook_source_split_005.html",
+              "block": 306,
+              "expect": "(三) 是非评析"
+            },
+            {
+              "label": "（四）社会效果",
+              "file": "ebook_source_split_006.html",
+              "block": 26,
+              "expect": "(四) 社会效果"
+            },
+            {
+              "label": "（五）对农业合作化运动的估价",
+              "file": "ebook_source_split_006.html",
+              "block": 37,
+              "expect": "（五）对农业合作化运动的估价"
+            }
+          ]
+        },
+        {
+          "label": "十七 资本主义工商业全行业公私合营",
+          "file": "ebook_source_split_006.html",
+          "block": 46,
+          "expect": "十七 资本主义工商业 全行业公私合营",
+          "children": [
+            {
+              "label": "（一）出乎预料的速度",
+              "file": "ebook_source_split_006.html",
+              "block": 48,
+              "expect": "（一）出乎预料的速度"
+            },
+            {
+              "label": "（二）大势之所趋",
+              "file": "ebook_source_split_006.html",
+              "block": 62,
+              "expect": "（二）大势之所趋"
+            },
+            {
+              "label": "（三）全行业公私合营形式的选择",
+              "file": "ebook_source_split_006.html",
+              "block": 92,
+              "expect": "（三）全行业公私合营形式的选择"
+            },
+            {
+              "label": "（四）成就和问题",
+              "file": "ebook_source_split_006.html",
+              "block": 123,
+              "expect": "（四）成就和问题"
+            },
+            {
+              "label": "（五）1956年底毛主席同工商界人士的一次谈话",
+              "file": "ebook_source_split_006.html",
+              "block": 139,
+              "expect": "（五）1956年底毛主席同工商界人士的一次谈话"
+            }
+          ]
+        },
+        {
+          "label": "十八 加快手工业改造的得失",
+          "file": "ebook_source_split_006.html",
+          "block": 158,
+          "expect": "十八 加快手工业改造的得失",
+          "children": [
+            {
+              "label": "（一）我国手工业的特征及其在国民经济中的地位",
+              "file": "ebook_source_split_006.html",
+              "block": 161,
+              "expect": "（一）我国手工业的特征及其在国民经济中的地位"
+            },
+            {
+              "label": "（二）建国头六年手工业改造的进程",
+              "file": "ebook_source_split_006.html",
+              "block": 178,
+              "expect": "（二）建国头六年手工业改造的进程"
+            },
+            {
+              "label": "（三）加快改造带来的曲折",
+              "file": "ebook_source_split_006.html",
+              "block": 194,
+              "expect": "（三）加快改造带来的曲折"
+            },
+            {
+              "label": "（四）用发展的观点看得失",
+              "file": "ebook_source_split_006.html",
+              "block": 230,
+              "expect": "（四）用发展的观点看得失"
+            },
+            {
+              "label": "（五）对三大改造高潮的几点看法",
+              "file": "ebook_source_split_006.html",
+              "block": 237,
+              "expect": "（五）对三大改造高潮的几点看法"
+            }
+          ]
+        },
+        {
+          "label": "十九 《论十大关系》形成前后的调查和探索",
+          "file": "ebook_source_split_006.html",
+          "block": 248,
+          "expect": "十九《论十大关系》形成 前后的调查和探索",
+          "children": [
+            {
+              "label": "（一）调查和探索的目的",
+              "file": "ebook_source_split_006.html",
+              "block": 250,
+              "expect": "（一）调查和探索的目的"
+            },
+            {
+              "label": "（二）汇报中提出的主要问题",
+              "file": "ebook_source_split_007.html",
+              "block": 4,
+              "expect": "（二）汇报中提出的主要问题"
+            },
+            {
+              "label": "（三）从听汇报到论十大关系",
+              "file": "ebook_source_split_007.html",
+              "block": 33,
+              "expect": "（三）从听汇报到论十大关系"
+            },
+            {
+              "label": "（四）探索带来的新风",
+              "file": "ebook_source_split_007.html",
+              "block": 60,
+              "expect": "（四）探索带来的新风"
+            }
+          ]
+        },
+        {
+          "label": "二十 向科学进军的两项重大部署",
+          "file": "ebook_source_split_007.html",
+          "block": 80,
+          "expect": "二十 向科学进军的 两项重大部署",
+          "children": [
+            {
+              "label": "（一）大规模经济建设展开后面临的新问题",
+              "file": "ebook_source_split_007.html",
+              "block": 82,
+              "expect": "（一）大规模经济建设展开后面临的新问题"
+            },
+            {
+              "label": "（二）中央召开知识分子问题的会议",
+              "file": "ebook_source_split_007.html",
+              "block": 95,
+              "expect": "（二）中央召开知识分子问题的会议"
+            },
+            {
+              "label": "（三）制定12年科学技术发展远景规划",
+              "file": "ebook_source_split_007.html",
+              "block": 113,
+              "expect": "（三）制定 12 年科学技术发展远景规划"
+            },
+            {
+              "label": "（四）对知识分子问题的思考",
+              "file": "ebook_source_split_007.html",
+              "block": 130,
+              "expect": "（四）对知识分子问题的思考"
+            }
+          ]
+        },
+        {
+          "label": "二十一 反冒进和八大的正确决策",
+          "file": "ebook_source_split_007.html",
+          "block": 139,
+          "expect": "二十一 反冒进和八大的 正确决策",
+          "children": [
+            {
+              "label": "（一）冒进倾向的产生",
+              "file": "ebook_source_split_007.html",
+              "block": 141,
+              "expect": "(一) 冒进倾向的产生"
+            },
+            {
+              "label": "（二）为组织好1956年生产建设反冒进",
+              "file": "ebook_source_split_007.html",
+              "block": 172,
+              "expect": "（二）为组织好 1956 年 生产建设反冒进"
+            },
+            {
+              "label": "（三）为拿出一个实事求是的“二五”建议反冒进",
+              "file": "ebook_source_split_007.html",
+              "block": 212,
+              "expect": "（三）为拿出一个实事求是的 “二五”建议反冒进"
+            },
+            {
+              "label": "（四）在探索中形成八大的正确决策",
+              "file": "ebook_source_split_007.html",
+              "block": 231,
+              "expect": "（四）在探索中形成八大的正确决策"
+            },
+            {
+              "label": "（五）为编好1957年计划继续反冒进",
+              "file": "ebook_source_split_007.html",
+              "block": 251,
+              "expect": "（五）为编好 1957 年计划继续反冒进"
+            }
+          ]
+        },
+        {
+          "label": "上卷结语",
+          "file": "ebook_source_split_008.html",
+          "block": 18,
+          "expect": "上卷结语"
+        },
+        {
+          "label": "二十二 《关于正确处理人民内部矛盾的问题》的发表",
+          "file": "ebook_source_split_008.html",
+          "block": 32,
+          "expect": "二十二 《关于正确处理人民内部矛盾的问题》的发表",
+          "children": [
+            {
+              "label": "（一）社会主义建设时期国家政治生活的主题",
+              "file": "ebook_source_split_008.html",
+              "block": 34,
+              "expect": "（一）社会主义建设时期国家政治生活的主题"
+            },
+            {
+              "label": "（二）正确处理人民内部矛盾学说的形成过程",
+              "file": "ebook_source_split_008.html",
+              "block": 70,
+              "expect": "（二）正确处理人民内部矛盾学说的形成过程"
+            },
+            {
+              "label": "（三）从讲话到论文的发表",
+              "file": "ebook_source_split_008.html",
+              "block": 90,
+              "expect": "（三）从讲话到论文的发表"
+            },
+            {
+              "label": "（四）《正处》的理论贡献与实践过程中的曲折",
+              "file": "ebook_source_split_008.html",
+              "block": 113,
+              "expect": "（四）《正处》的理论贡献与 实践过程中的曲折"
+            }
+          ]
+        },
+        {
+          "label": "二十三 整风、反右派和修改八大关于主要矛盾的论断",
+          "file": "ebook_source_split_008.html",
+          "block": 130,
+          "expect": "二十三 整风、反右派和修改 八大关于主要矛盾的 论断",
+          "children": [
+            {
+              "label": "（一）发动全党进行整风的意图和方针",
+              "file": "ebook_source_split_008.html",
+              "block": 132,
+              "expect": "（一）发动全党进行整风的 意图和方针"
+            },
+            {
+              "label": "（二）从整风到反右派的转变",
+              "file": "ebook_source_split_008.html",
+              "block": 151,
+              "expect": "（二）从整风到反右派的转变"
+            },
+            {
+              "label": "（三）反右派斗争的严重扩大化及其教训",
+              "file": "ebook_source_split_008.html",
+              "block": 170,
+              "expect": "（三）反右派斗争的严重 扩大化及其教训"
+            },
+            {
+              "label": "（四）修改八大关于主要矛盾的论断",
+              "file": "ebook_source_split_008.html",
+              "block": 183,
+              "expect": "（四）修改八大关于主要矛盾的论断"
+            }
+          ]
+        },
+        {
+          "label": "二十四 批评反冒进",
+          "file": "ebook_source_split_008.html",
+          "block": 218,
+          "expect": "二十四 批评反冒进",
+          "children": [
+            {
+              "label": "（一）批评反冒进的经过",
+              "file": "ebook_source_split_008.html",
+              "block": 220,
+              "expect": "（一）批评反冒进的经过"
+            },
+            {
+              "label": "（二）毛主席对反冒进问题的分析",
+              "file": "ebook_source_split_008.html",
+              "block": 244,
+              "expect": "（二）毛主席对反冒进问题的分析"
+            },
+            {
+              "label": "（三）今天的认识",
+              "file": "ebook_source_split_009.html",
+              "block": 17,
+              "expect": "（三）今天的认识"
+            }
+          ]
+        },
+        {
+          "label": "二十五 社会主义建设总路线的制定",
+          "file": "ebook_source_split_009.html",
+          "block": 31,
+          "expect": "二十五 社会主义建设 总路线的制定",
+          "children": [
+            {
+              "label": "（一）成都会议的酝酿和讨论",
+              "file": "ebook_source_split_009.html",
+              "block": 33,
+              "expect": "（一）成都会议的酝酿和讨论"
+            },
+            {
+              "label": "（二）八大二次会议正式制定总路线",
+              "file": "ebook_source_split_009.html",
+              "block": 53,
+              "expect": "（二）八大二次会议正式制定总路线"
+            },
+            {
+              "label": "（三）一点评析",
+              "file": "ebook_source_split_009.html",
+              "block": 75,
+              "expect": "(三) 一点评析"
+            }
+          ]
+        },
+        {
+          "label": "二十六 “大跃进”的发动",
+          "file": "ebook_source_split_009.html",
+          "block": 92,
+          "expect": "二十六 “大跃进”的发动",
+          "children": [
+            {
+              "label": "（一）农业“大跃进”的发动",
+              "file": "ebook_source_split_009.html",
+              "block": 94,
+              "expect": "（一）农业“大跃进”的发动"
+            },
+            {
+              "label": "（二）全民大办钢铁的由来",
+              "file": "ebook_source_split_009.html",
+              "block": 127,
+              "expect": "（二）全民大办钢铁的由来"
+            },
+            {
+              "label": "（三）“大跃进”第一个回合的得失",
+              "file": "ebook_source_split_009.html",
+              "block": 194,
+              "expect": "（三）“大跃进”第一个回合的得失"
+            },
+            {
+              "label": "（四）从发动阶段看到的问题",
+              "file": "ebook_source_split_009.html",
+              "block": 216,
+              "expect": "（四）从发动阶段看到的问题"
+            }
+          ]
+        },
+        {
+          "label": "二十七 农村人民公社化运动",
+          "file": "ebook_source_split_009.html",
+          "block": 238,
+          "expect": "二十七 农村人民公社化运动",
+          "children": [
+            {
+              "label": "（一）在“大跃进”中萌发人民公社的构想",
+              "file": "ebook_source_split_009.html",
+              "block": 240,
+              "expect": "（一）在“大跃进”中萌发 人民公社的构想"
+            },
+            {
+              "label": "（二）北戴河会议的讨论和决议",
+              "file": "ebook_source_split_010.html",
+              "block": 20,
+              "expect": "（二）北戴河会议的讨论和决议"
+            },
+            {
+              "label": "（三）超阶段空想的进一步发展",
+              "file": "ebook_source_split_010.html",
+              "block": 60,
+              "expect": "（三）超阶段空想的进一步发展"
+            },
+            {
+              "label": "（四）从“共产风”看人民公社的弊病",
+              "file": "ebook_source_split_010.html",
+              "block": 73,
+              "expect": "（四）从“共产风”看人民公社的弊病"
+            },
+            {
+              "label": "（五）对几个问题的初步探索",
+              "file": "ebook_source_split_010.html",
+              "block": 97,
+              "expect": "（五）对几个问题的初步探索"
+            }
+          ]
+        },
+        {
+          "label": "二十八 改进经济管理体制的尝试",
+          "file": "ebook_source_split_010.html",
+          "block": 133,
+          "expect": "二十八 改进经济管理 体制的尝试",
+          "children": [
+            {
+              "label": "（一）改进经济管理体制的提出",
+              "file": "ebook_source_split_010.html",
+              "block": 136,
+              "expect": "（一）改进经济管理体制的提出"
+            },
+            {
+              "label": "（二）1956年改进经济管理体制方案的形成及主要内容",
+              "file": "ebook_source_split_010.html",
+              "block": 152,
+              "expect": "（二）1956年改进经济管理体制方案的形成及主要内容"
+            },
+            {
+              "label": "（三）1957年拟定的改进工业、商业、财政管理体制的规定",
+              "file": "ebook_source_split_010.html",
+              "block": 173,
+              "expect": "（三）1957年拟定的改进工业、商业、财政管理体制的规定"
+            },
+            {
+              "label": "（四）1958年的“放权”与“收权”",
+              "file": "ebook_source_split_010.html",
+              "block": 184,
+              "expect": "（四）1958年的“放权”与“收权”"
+            },
+            {
+              "label": "（五）今天的一些认识",
+              "file": "ebook_source_split_010.html",
+              "block": 204,
+              "expect": "（五）今天的一些认识"
+            }
+          ]
+        },
+        {
+          "label": "二十九 郑州会议开始纠“左”",
+          "file": "ebook_source_split_010.html",
+          "block": 212,
+          "expect": "二十九 郑州会议开始纠“左”",
+          "children": [
+            {
+              "label": "（一）毛主席在“大跃进”的高潮中提出要“压缩空气”",
+              "file": "ebook_source_split_010.html",
+              "block": 214,
+              "expect": "（一）毛主席在“大跃进”的高潮中提出要“压缩空气”"
+            },
+            {
+              "label": "（二）人民公社问题的症结所在",
+              "file": "ebook_source_split_010.html",
+              "block": 248,
+              "expect": "（二）人民公社问题的症结所在"
+            },
+            {
+              "label": "（三）降低钢铁指标",
+              "file": "ebook_source_split_011.html",
+              "block": 19,
+              "expect": "（三）降低钢铁指标"
+            },
+            {
+              "label": "（四）读书、总结经验与逐步认识客观规律",
+              "file": "ebook_source_split_011.html",
+              "block": 71,
+              "expect": "（四）读书、总结经验与逐步 认识客观规律"
+            }
+          ]
+        },
+        {
+          "label": "三十 庐山会议的“反右倾”",
+          "file": "ebook_source_split_011.html",
+          "block": 83,
+          "expect": "三十 庐山会议的“反右倾”",
+          "children": [
+            {
+              "label": "（一）庐山会议的初衷",
+              "file": "ebook_source_split_011.html",
+              "block": 85,
+              "expect": "（一）庐山会议的初衷"
+            },
+            {
+              "label": "（二）彭德怀同志的信",
+              "file": "ebook_source_split_011.html",
+              "block": 110,
+              "expect": "（二）彭德怀同志的信"
+            },
+            {
+              "label": "（三）会议转向：从纠“左”到“反右倾”",
+              "file": "ebook_source_split_011.html",
+              "block": 134,
+              "expect": "（三）会议转向：从纠“左” 到“反右倾”"
+            },
+            {
+              "label": "（四）“反右倾”的严重后果",
+              "file": "ebook_source_split_011.html",
+              "block": 168,
+              "expect": "（四）“反右倾”的严重后果"
+            },
+            {
+              "label": "（五）党内斗争的深刻教训",
+              "file": "ebook_source_split_011.html",
+              "block": 177,
+              "expect": "（五）党内斗争的深刻教训"
+            }
+          ]
+        },
+        {
+          "label": "三十一 “调整、巩固、充实、提高”方针的提出及初步实施",
+          "file": "ebook_source_split_011.html",
+          "block": 194,
+          "expect": "三十一 “调整、巩固、充实、提高”方针的提出及初步实施",
+          "children": [
+            {
+              "label": "（一）违背客观规律行事而造成的惩罚",
+              "file": "ebook_source_split_011.html",
+              "block": 196,
+              "expect": "（一）违背客观规律行事 而造成的惩罚"
+            },
+            {
+              "label": "（二）“八字方针”的酝酿过程",
+              "file": "ebook_source_split_011.html",
+              "block": 213,
+              "expect": "（二）“八字方针”的酝酿过程"
+            },
+            {
+              "label": "（三）“八字方针”的初步执行情况",
+              "file": "ebook_source_split_011.html",
+              "block": 227,
+              "expect": "（三）“八字方针”的初步执行情况"
+            }
+          ]
+        },
+        {
+          "label": "三十二 《农村六十条》的制定",
+          "file": "ebook_source_split_011.html",
+          "block": 246,
+          "expect": "三十二 《农村六十条》的制定",
+          "children": [
+            {
+              "label": "（一）全党大兴调查研究之风的第一个硕果",
+              "file": "ebook_source_split_011.html",
+              "block": 251,
+              "expect": "（一）全党大兴调查研究之风的第一个硕果"
+            },
+            {
+              "label": "（二）“三月草案”的形成和内容梗概",
+              "file": "ebook_source_split_012.html",
+              "block": 24,
+              "expect": "（二）“三月草案”的形成和内容梗概"
+            },
+            {
+              "label": "（三）“六月修正草案”的新突破和重要补充",
+              "file": "ebook_source_split_012.html",
+              "block": 55,
+              "expect": "（三）“六月修正草案”的新突破 和重要补充"
+            },
+            {
+              "label": "（四）1962年的修改",
+              "file": "ebook_source_split_012.html",
+              "block": 99,
+              "expect": "(四) 1962 年的修改"
+            }
+          ]
+        },
+        {
+          "label": "三十三 《工业七十条》的诞生",
+          "file": "ebook_source_split_012.html",
+          "block": 144,
+          "expect": "三十三 《工业七十条》的诞生",
+          "children": [
+            {
+              "label": "（一）在调查研究中诞生",
+              "file": "ebook_source_split_012.html",
+              "block": 146,
+              "expect": "（一）在调查研究中诞生"
+            },
+            {
+              "label": "（二）条例的主要内容",
+              "file": "ebook_source_split_012.html",
+              "block": 175,
+              "expect": "（二）条例的主要内容"
+            },
+            {
+              "label": "（三）条例的试行",
+              "file": "ebook_source_split_012.html",
+              "block": 221,
+              "expect": "（三）条例的试行"
+            },
+            {
+              "label": "（四）对两个问题的说明",
+              "file": "ebook_source_split_012.html",
+              "block": 243,
+              "expect": "（四）对两个问题的说明"
+            }
+          ]
+        },
+        {
+          "label": "三十四 对知识分子政策的调整",
+          "file": "ebook_source_split_012.html",
+          "block": 258,
+          "expect": "三十四 对知识分子 政策的调整",
+          "children": [
+            {
+              "label": "（一）科研、高教、文艺等条例的制定",
+              "file": "ebook_source_split_012.html",
+              "block": 260,
+              "expect": "（一）科研、高教、文艺等 条例的制定"
+            },
+            {
+              "label": "（二）为知识分子“脱帽加冕”",
+              "file": "ebook_source_split_013.html",
+              "block": 42,
+              "expect": "（二）为知识分子“脱帽加冕”"
+            },
+            {
+              "label": "（三）成就和局限",
+              "file": "ebook_source_split_013.html",
+              "block": 73,
+              "expect": "（三）成就和局限"
+            }
+          ]
+        },
+        {
+          "label": "三十五 “七千人大会”的召开",
+          "file": "ebook_source_split_013.html",
+          "block": 109,
+          "expect": "三十五 “七千人大会”的召开",
+          "children": [
+            {
+              "label": "（一）大会始末",
+              "file": "ebook_source_split_013.html",
+              "block": 111,
+              "expect": "(一) 大会始末"
+            },
+            {
+              "label": "（二）对“大跃进”以来所犯错误的分析",
+              "file": "ebook_source_split_013.html",
+              "block": 132,
+              "expect": "（二）对“大跃进”以来所犯错误的分析"
+            },
+            {
+              "label": "（三）犯错误的根源何在",
+              "file": "ebook_source_split_013.html",
+              "block": 160,
+              "expect": "（三）犯错误的根源何在"
+            },
+            {
+              "label": "（四）几点看法",
+              "file": "ebook_source_split_013.html",
+              "block": 214,
+              "expect": "(四) 几点看法"
+            }
+          ]
+        },
+        {
+          "label": "三十六 西楼会议和进一步调整国民经济的措施",
+          "file": "ebook_source_split_013.html",
+          "block": 225,
+          "expect": "三十六 西楼会议和进一步调整国民经济的措施",
+          "children": [
+            {
+              "label": "（一）实事求是精神的体现",
+              "file": "ebook_source_split_013.html",
+              "block": 227,
+              "expect": "（一）实事求是精神的体现"
+            },
+            {
+              "label": "（二）非常时期的非常措施",
+              "file": "ebook_source_split_014.html",
+              "block": 1,
+              "expect": "（二）非常时期的非常措施"
+            },
+            {
+              "label": "（三）西楼会议在调整经济中的作用",
+              "file": "ebook_source_split_014.html",
+              "block": 40,
+              "expect": "（三）西楼会议在调整经济中的作用"
+            }
+          ]
+        },
+        {
+          "label": "三十七 八届十中全会和强调阶级斗争",
+          "file": "ebook_source_split_014.html",
+          "block": 52,
+          "expect": "三十七 八届十中全会和 强调阶级斗争",
+          "children": [
+            {
+              "label": "（一）会议的进程",
+              "file": "ebook_source_split_014.html",
+              "block": 54,
+              "expect": "（一）会议的进程"
+            },
+            {
+              "label": "（二）对形势的不同看法和对“黑暗风”的批判",
+              "file": "ebook_source_split_014.html",
+              "block": 63,
+              "expect": "（二）对形势的不同看法和 对“黑暗风”的批判"
+            },
+            {
+              "label": "（三）包产到户问题引起的争论",
+              "file": "ebook_source_split_014.html",
+              "block": 76,
+              "expect": "（三）包产到户问题引起的争论"
+            },
+            {
+              "label": "（四）为何发生对“翻案风”的批判",
+              "file": "ebook_source_split_014.html",
+              "block": 110,
+              "expect": "（四）为何发生对“翻案风”的批判"
+            },
+            {
+              "label": "（五）重新强调阶级斗争及其失误",
+              "file": "ebook_source_split_014.html",
+              "block": 133,
+              "expect": "（五）重新强调阶级斗争及其失误"
+            }
+          ]
+        },
+        {
+          "label": "三十八 开展城乡“四清”运动",
+          "file": "ebook_source_split_014.html",
+          "block": 153,
+          "expect": "三十八 开展城乡“四清”运动",
+          "children": [
+            {
+              "label": "（一）“四清”运动的由来和《前十条》的制定",
+              "file": "ebook_source_split_014.html",
+              "block": 155,
+              "expect": "（一）“四清”运动的由来和 《前十条》的制定"
+            },
+            {
+              "label": "（二）运动的初步开展和《后十条》的制定",
+              "file": "ebook_source_split_014.html",
+              "block": 170,
+              "expect": "（二）运动的初步开展和《后十条》的制定"
+            },
+            {
+              "label": "（三）《后十条》的修正和“左”倾错误的发展",
+              "file": "ebook_source_split_014.html",
+              "block": 197,
+              "expect": "（三）《后十条》的修正和 “左”倾错误的发展"
+            },
+            {
+              "label": "（四）《二十三条》制定前后的思想分歧",
+              "file": "ebook_source_split_014.html",
+              "block": 228,
+              "expect": "（四）《二十三条》制定前后的 思想分歧"
+            }
+          ]
+        },
+        {
+          "label": "三十九 关于防止“和平演变”和培养革命事业的接班人",
+          "file": "ebook_source_split_014.html",
+          "block": 257,
+          "expect": "三十九 关于防止“和平演变” 和培养革命事业的 接班人",
+          "children": [
+            {
+              "label": "（一）防止“和平演变”问题的提出",
+              "file": "ebook_source_split_014.html",
+              "block": 259,
+              "expect": "（一）防止“和平演变”问题的提出"
+            },
+            {
+              "label": "（二）培养革命事业接班人的措施",
+              "file": "ebook_source_split_015.html",
+              "block": 58,
+              "expect": "（二）培养革命事业接班人的措施"
+            }
+          ]
+        },
+        {
+          "label": "四十 试办托拉斯",
+          "file": "ebook_source_split_015.html",
+          "block": 100,
+          "expect": "四十 试办托拉斯",
+          "children": [
+            {
+              "label": "（一）问题的提出",
+              "file": "ebook_source_split_015.html",
+              "block": 102,
+              "expect": "(一) 问题的提出"
+            },
+            {
+              "label": "（二）试办方案",
+              "file": "ebook_source_split_015.html",
+              "block": 120,
+              "expect": "(二) 试办方案"
+            },
+            {
+              "label": "（三）试办的初步成效和遇到的矛盾",
+              "file": "ebook_source_split_015.html",
+              "block": 150,
+              "expect": "（三）试办的初步成效和遇到的矛盾"
+            },
+            {
+              "label": "（四）初步总结",
+              "file": "ebook_source_split_015.html",
+              "block": 171,
+              "expect": "(四) 初步总结"
+            }
+          ]
+        },
+        {
+          "label": "四十一 “三五”计划的制定与三线建设的展开",
+          "file": "ebook_source_split_015.html",
+          "block": 189,
+          "expect": "四十一 “三五”计划的制定与 三线建设的展开",
+          "children": [
+            {
+              "label": "（一）“吃穿用计划”的提出",
+              "file": "ebook_source_split_015.html",
+              "block": 191,
+              "expect": "（一）“吃穿用计划”的提出"
+            },
+            {
+              "label": "（二）三线建设",
+              "file": "ebook_source_split_015.html",
+              "block": 206,
+              "expect": "(二) 三线建设"
+            },
+            {
+              "label": "（三）成立小计委与备战计划的形成",
+              "file": "ebook_source_split_015.html",
+              "block": 236,
+              "expect": "（三）成立小计委与备战计划的形成"
+            },
+            {
+              "label": "（四）对一些问题的认识",
+              "file": "ebook_source_split_015.html",
+              "block": 256,
+              "expect": "（四）对一些问题的认识"
+            }
+          ]
+        },
+        {
+          "label": "四十二 文化领域的大批判",
+          "file": "ebook_source_split_016.html",
+          "block": 19,
+          "expect": "四十二 文化领域的大批判",
+          "children": [
+            {
+              "label": "（一）毛主席关于文艺工作的两个批示和各个领域批判的开展",
+              "file": "ebook_source_split_016.html",
+              "block": 21,
+              "expect": "（一）毛主席关于文艺工作的两个批示和各个领域批判的开展"
+            },
+            {
+              "label": "（二）对新编历史剧《海瑞罢官》的批判",
+              "file": "ebook_source_split_016.html",
+              "block": 61,
+              "expect": "（二）对新编历史剧 《海瑞罢官》的批判"
+            },
+            {
+              "label": "（三）从《二月提纲》到《五·一六通知》",
+              "file": "ebook_source_split_016.html",
+              "block": 77,
+              "expect": "（三）从《二月提纲》到"
+            },
+            {
+              "label": "（四）历史的教训和启迪",
+              "file": "ebook_source_split_016.html",
+              "block": 109,
+              "expect": "（四）历史的教训和启迪"
+            }
+          ]
+        },
+        {
+          "label": "四十三 开始全面建设社会主义十年的经验与教训",
+          "file": "ebook_source_split_016.html",
+          "block": 127,
+          "expect": "四十三 开始全面建设社会主义十年的经验与教训",
+          "children": [
+            {
+              "label": "（一）关于阶级斗争",
+              "file": "ebook_source_split_016.html",
+              "block": 150,
+              "expect": "（一）关于阶级斗争"
+            },
+            {
+              "label": "（二）关于经济建设",
+              "file": "ebook_source_split_016.html",
+              "block": 180,
+              "expect": "（二）关于经济建设"
+            },
+            {
+              "label": "（三）关于生产关系和社会制度的变革",
+              "file": "ebook_source_split_016.html",
+              "block": 209,
+              "expect": "（三）关于生产关系和社会制度的变革"
+            },
+            {
+              "label": "（四）关于党的建设",
+              "file": "ebook_source_split_016.html",
+              "block": 233,
+              "expect": "（四）关于党的建设"
+            }
+          ]
+        },
+        {
+          "label": "后记",
+          "file": "ebook_source_split_017.html",
+          "block": 0,
+          "expect": "后记"
+        }
+      ]
+    }
+  ]
+}

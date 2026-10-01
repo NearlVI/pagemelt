@@ -1,0 +1,443 @@
+{
+  "books": [
+    {
+      "file": "写作课 何为好，为何写不好，如何能写好 (（美）艾丽斯·马蒂森（Alice Mattison）著, 马蒂森 (Mattison etc.) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "entries": [
+        {
+          "label": "引言：打扰一下，我们是否在哪儿见过？",
+          "file": "ebook_source_split_000.html",
+          "block": 96,
+          "expect": "引言"
+        },
+        {
+          "label": "风筝与线",
+          "file": "ebook_source_split_000.html",
+          "block": 135,
+          "expect": "风筝与线",
+          "children": [
+            {
+              "label": "自由写作，但别忽略常识",
+              "file": "ebook_source_split_000.html",
+              "block": 136,
+              "expect": "自由写作,但别忽略常识",
+              "children": [
+                {
+                  "label": "故事之声",
+                  "file": "ebook_source_split_000.html",
+                  "block": 139,
+                  "expect": "故事之声"
+                },
+                {
+                  "label": "恰到好处的白日梦",
+                  "file": "ebook_source_split_000.html",
+                  "block": 168,
+                  "expect": "恰到好处的白日梦"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "让人物行动起来",
+          "file": "ebook_source_split_000.html",
+          "block": 206,
+          "expect": "让人物行动起来",
+          "children": [
+            {
+              "label": "想象",
+              "file": "ebook_source_split_000.html",
+              "block": 207,
+              "expect": "想象"
+            },
+            {
+              "label": "灵感来了怎么办？",
+              "file": "ebook_source_split_000.html",
+              "block": 256,
+              "expect": "灵感来了怎么办？",
+              "children": [
+                {
+                  "label": "记录想法",
+                  "file": "ebook_source_split_000.html",
+                  "block": 258,
+                  "expect": "记录想法"
+                },
+                {
+                  "label": "差点儿发生的和本该发生的",
+                  "file": "ebook_source_split_000.html",
+                  "block": 267,
+                  "expect": "差点儿发生的和本该发生的"
+                },
+                {
+                  "label": "脱离现实的杜撰",
+                  "file": "ebook_source_split_000.html",
+                  "block": 291,
+                  "expect": "脱离现实的杜撰"
+                },
+                {
+                  "label": "修辞",
+                  "file": "ebook_source_split_000.html",
+                  "block": 305,
+                  "expect": "修 辞"
+                },
+                {
+                  "label": "从主题到完整的作品",
+                  "file": "ebook_source_split_000.html",
+                  "block": 316,
+                  "expect": "从主题到完整的作品"
+                }
+              ]
+            },
+            {
+              "label": "顺其自然",
+              "file": "ebook_source_split_000.html",
+              "block": 339,
+              "expect": "顺其自然",
+              "children": [
+                {
+                  "label": "制造麻烦",
+                  "file": "ebook_source_split_000.html",
+                  "block": 341,
+                  "expect": "制造麻烦"
+                },
+                {
+                  "label": "戏剧化要有，但别太过",
+                  "file": "ebook_source_split_000.html",
+                  "block": 365,
+                  "expect": "戏剧化要有，但别太过"
+                },
+                {
+                  "label": "合理运用巧合",
+                  "file": "ebook_source_split_000.html",
+                  "block": 375,
+                  "expect": "合理运用巧合"
+                }
+              ]
+            },
+            {
+              "label": "成为别人",
+              "file": "ebook_source_split_000.html",
+              "block": 414,
+              "expect": "成为别人",
+              "children": [
+                {
+                  "label": "我可以假装是你吗？",
+                  "file": "ebook_source_split_000.html",
+                  "block": 416,
+                  "expect": "我可以假装是你吗？"
+                },
+                {
+                  "label": "“她会怎么做？”",
+                  "file": "ebook_source_split_000.html",
+                  "block": 436,
+                  "expect": "“她会怎么做？”"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "短篇与长篇：从起点到终点",
+          "file": "ebook_source_split_000.html",
+          "block": 463,
+          "expect": "短篇与长篇：从起点到终点",
+          "children": [
+            {
+              "label": "充分认识短篇与长篇",
+              "file": "ebook_source_split_000.html",
+              "block": 464,
+              "expect": "充分认识短篇与长篇",
+              "children": [
+                {
+                  "label": "什么是短篇小说？——以格雷丝·佩利的《和父亲的对话》为例",
+                  "file": "ebook_source_split_000.html",
+                  "block": 466,
+                  "expect": "什么是短篇小说？"
+                },
+                {
+                  "label": "蒂莉·奥尔森：《我站在这儿熨烫》",
+                  "file": "ebook_source_split_000.html",
+                  "block": 484,
+                  "expect": "蒂莉·奥尔森：《我站在这儿熨烫》"
+                },
+                {
+                  "label": "爱德华·P.琼斯：《母亲节后的星期天》",
+                  "file": "ebook_source_split_001.html",
+                  "block": 5,
+                  "expect": "爱德华·P.琼斯：《母亲节后的星期天》"
+                },
+                {
+                  "label": "未完成的长篇",
+                  "file": "ebook_source_split_001.html",
+                  "block": 13,
+                  "expect": "未完成的长篇"
+                },
+                {
+                  "label": "长篇小说的构思",
+                  "file": "ebook_source_split_001.html",
+                  "block": 38,
+                  "expect": "长篇小说的构思"
+                },
+                {
+                  "label": "《米德尔马契》的故事大纲",
+                  "file": "ebook_source_split_001.html",
+                  "block": 49,
+                  "expect": "《米德尔马契》的故事大纲"
+                }
+              ]
+            },
+            {
+              "label": "女王的死因，以及“不确定”的吸引力",
+              "file": "ebook_source_split_001.html",
+              "block": 97,
+              "expect": "女王的死因，以及“不确定”的吸引力",
+              "children": [
+                {
+                  "label": "篇幅长的就是长篇小说吗？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 100,
+                  "expect": "篇幅长的就是长篇小说吗？"
+                },
+                {
+                  "label": "女王之死",
+                  "file": "ebook_source_split_001.html",
+                  "block": 116,
+                  "expect": "女王之死"
+                },
+                {
+                  "label": "宽阔笔直的单行道",
+                  "file": "ebook_source_split_001.html",
+                  "block": 139,
+                  "expect": "宽阔笔直的单行道"
+                },
+                {
+                  "label": "风景优美的观光线路",
+                  "file": "ebook_source_split_001.html",
+                  "block": 151,
+                  "expect": "风景优美的观光线路"
+                },
+                {
+                  "label": "高速公路",
+                  "file": "ebook_source_split_001.html",
+                  "block": 167,
+                  "expect": "高速公路"
+                },
+                {
+                  "label": "之字形线路",
+                  "file": "ebook_source_split_001.html",
+                  "block": 174,
+                  "expect": "之字形线路"
+                },
+                {
+                  "label": "迂回的小径——和孩子玩寻宝游戏",
+                  "file": "ebook_source_split_001.html",
+                  "block": 187,
+                  "expect": "迂回的小径——和孩子玩寻宝游戏"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "敞开心扉",
+          "file": "ebook_source_split_001.html",
+          "block": 217,
+          "expect": "敞开心扉",
+          "children": [
+            {
+              "label": "沉默，还是开口讲出来",
+              "file": "ebook_source_split_001.html",
+              "block": 218,
+              "expect": "沉默, 还是开口讲出来",
+              "children": [
+                {
+                  "label": "开不了口——作家的写作障碍",
+                  "file": "ebook_source_split_001.html",
+                  "block": 220,
+                  "expect": "开不了口——作家的写作障碍"
+                },
+                {
+                  "label": "直接叙述与间接叙述",
+                  "file": "ebook_source_split_001.html",
+                  "block": 242,
+                  "expect": "直接叙述与间接叙述"
+                },
+                {
+                  "label": "有信息量的句子",
+                  "file": "ebook_source_split_001.html",
+                  "block": 255,
+                  "expect": "有信息量的句子"
+                },
+                {
+                  "label": "悬念",
+                  "file": "ebook_source_split_001.html",
+                  "block": 260,
+                  "expect": "悬念"
+                },
+                {
+                  "label": "沉溺于心理活动的人物",
+                  "file": "ebook_source_split_001.html",
+                  "block": 267,
+                  "expect": "沉溺于心理活动的人物"
+                },
+                {
+                  "label": "刻意打乱时间顺序",
+                  "file": "ebook_source_split_001.html",
+                  "block": 270,
+                  "expect": "刻意打乱时间顺序"
+                },
+                {
+                  "label": "动机不明",
+                  "file": "ebook_source_split_001.html",
+                  "block": 274,
+                  "expect": "动机不明"
+                },
+                {
+                  "label": "无益的脱离现实",
+                  "file": "ebook_source_split_001.html",
+                  "block": 278,
+                  "expect": "无益的脱离现实"
+                },
+                {
+                  "label": "省略",
+                  "file": "ebook_source_split_001.html",
+                  "block": 281,
+                  "expect": "省略"
+                },
+                {
+                  "label": "为安全而省略",
+                  "file": "ebook_source_split_001.html",
+                  "block": 284,
+                  "expect": "为安全而省略"
+                },
+                {
+                  "label": "作品中的被动沉默式人物",
+                  "file": "ebook_source_split_001.html",
+                  "block": 303,
+                  "expect": "作品中的被动沉默式人物"
+                },
+                {
+                  "label": "把故事讲出来",
+                  "file": "ebook_source_split_001.html",
+                  "block": 317,
+                  "expect": "把故事讲出来"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "坚持写下去",
+          "file": "ebook_source_split_001.html",
+          "block": 324,
+          "expect": "坚持写下去",
+          "children": [
+            {
+              "label": "修正思维的泡泡",
+              "file": "ebook_source_split_001.html",
+              "block": 325,
+              "expect": "修正思维的泡泡",
+              "children": [
+                {
+                  "label": "不切实际的幻想",
+                  "file": "ebook_source_split_001.html",
+                  "block": 327,
+                  "expect": "不切实际的幻想"
+                },
+                {
+                  "label": "我们应该怎么做？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 344,
+                  "expect": "我们应该怎么做？"
+                },
+                {
+                  "label": "想清楚究竟想要什么",
+                  "file": "ebook_source_split_001.html",
+                  "block": 362,
+                  "expect": "想清楚究竟想要什么"
+                },
+                {
+                  "label": "哪些事不该做？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 372,
+                  "expect": "哪些事不该做？"
+                },
+                {
+                  "label": "你的作品足以出版了吗？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 380,
+                  "expect": "你的作品足以出版了吗？"
+                },
+                {
+                  "label": "修改，但不绝望",
+                  "file": "ebook_source_split_001.html",
+                  "block": 386,
+                  "expect": "修改，但不绝望"
+                },
+                {
+                  "label": "寻找读者",
+                  "file": "ebook_source_split_001.html",
+                  "block": 400,
+                  "expect": "寻找读者"
+                },
+                {
+                  "label": "通过阅读学写作",
+                  "file": "ebook_source_split_001.html",
+                  "block": 420,
+                  "expect": "通过阅读学写作"
+                },
+                {
+                  "label": "在哪里投稿？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 427,
+                  "expect": "在哪里投稿？"
+                },
+                {
+                  "label": "如何投稿？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 434,
+                  "expect": "如何投稿？"
+                },
+                {
+                  "label": "还不行怎么办？",
+                  "file": "ebook_source_split_001.html",
+                  "block": 443,
+                  "expect": "还不行怎么办？"
+                },
+                {
+                  "label": "自助出版",
+                  "file": "ebook_source_split_001.html",
+                  "block": 449,
+                  "expect": "自助出版"
+                },
+                {
+                  "label": "兼职作家",
+                  "file": "ebook_source_split_001.html",
+                  "block": 456,
+                  "expect": "兼职作家"
+                },
+                {
+                  "label": "保持愉悦",
+                  "file": "ebook_source_split_001.html",
+                  "block": 467,
+                  "expect": "保持愉悦"
+                },
+                {
+                  "label": "写作那些事儿",
+                  "file": "ebook_source_split_001.html",
+                  "block": 483,
+                  "expect": "写作那些事儿"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "致谢",
+          "file": "ebook_source_split_002.html",
+          "block": 0,
+          "expect": "致谢"
+        }
+      ]
+    }
+  ]
+}

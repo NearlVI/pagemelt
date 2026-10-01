@@ -1,0 +1,321 @@
+{
+  "books": [
+    {
+      "file": "邓小平政治评传 (（澳）大卫·古德曼（D.S.G.Goodman）著；田酉如等译 etc.) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "entries": [
+        {
+          "label": "古德曼简介",
+          "file": "ebook_source_split_000.html",
+          "block": 21,
+          "expect": "古德曼简介"
+        },
+        {
+          "label": "中文版前言",
+          "file": "ebook_source_split_000.html",
+          "block": 23,
+          "expect": "中文版前言"
+        },
+        {
+          "label": "第一章 邓小平，共产主义与革命",
+          "file": "ebook_source_split_007.html",
+          "block": 0,
+          "expect": "第一章",
+          "children": [
+            {
+              "label": "中国共产党与夺取政权的道路",
+              "file": "ebook_source_split_007.html",
+              "block": 32,
+              "expect": "中国共产党与夺取政权的道路"
+            },
+            {
+              "label": "毛泽东时代的中国政治",
+              "file": "ebook_source_split_007.html",
+              "block": 50,
+              "expect": "毛泽东时代的中国政治"
+            },
+            {
+              "label": "中国共产党领导层中的政治关系",
+              "file": "ebook_source_split_007.html",
+              "block": 72,
+              "expect": "中国共产党领导层中的政治关系"
+            },
+            {
+              "label": "争论与人际关系",
+              "file": "ebook_source_split_007.html",
+              "block": 84,
+              "expect": "争论与人际关系"
+            }
+          ]
+        },
+        {
+          "label": "第二章 童年时代、青年时代（1904—1937）",
+          "file": "ebook_source_split_007.html",
+          "block": 127,
+          "expect": "第 二 章",
+          "children": [
+            {
+              "label": "家庭背景与早期生活",
+              "file": "ebook_source_split_007.html",
+              "block": 130,
+              "expect": "家庭背景与早期生活"
+            },
+            {
+              "label": "法国生活与中国政治",
+              "file": "ebook_source_split_007.html",
+              "block": 147,
+              "expect": "法国生活与中国政治"
+            },
+            {
+              "label": "从学生到政治工作者",
+              "file": "ebook_source_split_007.html",
+              "block": 161,
+              "expect": "从学生到政治工作者"
+            },
+            {
+              "label": "广西与农民起义",
+              "file": "ebook_source_split_007.html",
+              "block": 171,
+              "expect": "广西与农民起义"
+            },
+            {
+              "label": "江西、毛泽东与长征",
+              "file": "ebook_source_split_007.html",
+              "block": 182,
+              "expect": "江西、毛泽东与长征"
+            }
+          ]
+        },
+        {
+          "label": "第三章 军旅生涯（1937—1952）",
+          "file": "ebook_source_split_008.html",
+          "block": 0,
+          "expect": "第三章",
+          "children": [
+            {
+              "label": "八路军",
+              "file": "ebook_source_split_008.html",
+              "block": 5,
+              "expect": "八路军"
+            },
+            {
+              "label": "太行根据地",
+              "file": "ebook_source_split_008.html",
+              "block": 22,
+              "expect": "太行根据地"
+            },
+            {
+              "label": "解放战争",
+              "file": "ebook_source_split_008.html",
+              "block": 45,
+              "expect": "解放战争"
+            },
+            {
+              "label": "重返大西南",
+              "file": "ebook_source_split_008.html",
+              "block": 55,
+              "expect": "重返大西南"
+            }
+          ]
+        },
+        {
+          "label": "第四章 担任党的领导工作（1952—1960）",
+          "file": "ebook_source_split_009.html",
+          "block": 0,
+          "expect": "第四章",
+          "children": [
+            {
+              "label": "领导层的冲突",
+              "file": "ebook_source_split_009.html",
+              "block": 8,
+              "expect": "领导层的冲突"
+            },
+            {
+              "label": "中国共产党第八次全国代表大会",
+              "file": "ebook_source_split_009.html",
+              "block": 23,
+              "expect": "中国共产党第八次全国代表大会"
+            },
+            {
+              "label": "整风运动",
+              "file": "ebook_source_split_009.html",
+              "block": 42,
+              "expect": "整风运动"
+            },
+            {
+              "label": "大跃进",
+              "file": "ebook_source_split_009.html",
+              "block": 53,
+              "expect": "大 跃 进"
+            }
+          ]
+        },
+        {
+          "label": "第五章 重建与毛泽东（1960—1966）",
+          "file": "ebook_source_split_010.html",
+          "block": 0,
+          "expect": "第五章",
+          "children": [
+            {
+              "label": "重建",
+              "file": "ebook_source_split_010.html",
+              "block": 12,
+              "expect": "重建"
+            },
+            {
+              "label": "社会主义教育运动与阶级斗争",
+              "file": "ebook_source_split_010.html",
+              "block": 25,
+              "expect": "社会主义教育运动与阶级斗争"
+            },
+            {
+              "label": "中苏分裂",
+              "file": "ebook_source_split_010.html",
+              "block": 40,
+              "expect": "中苏分裂"
+            },
+            {
+              "label": "文化大革命",
+              "file": "ebook_source_split_010.html",
+              "block": 54,
+              "expect": "文化大革命"
+            }
+          ]
+        },
+        {
+          "label": "第六章 现代化与斗争（1969—1978）",
+          "file": "ebook_source_split_011.html",
+          "block": 0,
+          "expect": "第六章",
+          "children": [
+            {
+              "label": "江西的岁月",
+              "file": "ebook_source_split_011.html",
+              "block": 3,
+              "expect": "江西的岁月"
+            },
+            {
+              "label": "“四个现代化”",
+              "file": "ebook_source_split_011.html",
+              "block": 17,
+              "expect": "“四个现代化”"
+            },
+            {
+              "label": "一九七六年的天安门事件",
+              "file": "ebook_source_split_011.html",
+              "block": 32,
+              "expect": "一九七六年的天安门事件"
+            },
+            {
+              "label": "十一届三中全会",
+              "file": "ebook_source_split_011.html",
+              "block": 48,
+              "expect": "十一届三中全会"
+            }
+          ]
+        },
+        {
+          "label": "第七章 改革的基础（1979—1984）",
+          "file": "ebook_source_split_012.html",
+          "block": 0,
+          "expect": "第七章",
+          "children": [
+            {
+              "label": "发动改革",
+              "file": "ebook_source_split_012.html",
+              "block": 12,
+              "expect": "发动改革"
+            },
+            {
+              "label": "“历史遗留问题”",
+              "file": "ebook_source_split_012.html",
+              "block": 32,
+              "expect": "“历史遗留问题”"
+            },
+            {
+              "label": "政治改革",
+              "file": "ebook_source_split_012.html",
+              "block": 42,
+              "expect": "政治改革"
+            },
+            {
+              "label": "“有中国特色的社会主义”",
+              "file": "ebook_source_split_012.html",
+              "block": 54,
+              "expect": "“有中国特色的社会主义”"
+            }
+          ]
+        },
+        {
+          "label": "第八章 换代交接（1985及1985年之后）",
+          "file": "ebook_source_split_013.html",
+          "block": 0,
+          "expect": "第八章",
+          "children": [
+            {
+              "label": "1985年的共产党全国代表会议",
+              "file": "ebook_source_split_014.html",
+              "block": 0,
+              "expect": "1985 年的共产党全国代表会议"
+            },
+            {
+              "label": "胡耀邦和赵紫阳",
+              "file": "ebook_source_split_014.html",
+              "block": 14,
+              "expect": "胡耀邦和赵紫阳"
+            },
+            {
+              "label": "1989年的天安门事件",
+              "file": "ebook_source_split_015.html",
+              "block": 0,
+              "expect": "1989 年的天安门事件"
+            },
+            {
+              "label": "退休与历史",
+              "file": "ebook_source_split_015.html",
+              "block": 13,
+              "expect": "退休与历史"
+            }
+          ]
+        },
+        {
+          "label": "第九章 对邓小平同志的初步评估",
+          "file": "ebook_source_split_016.html",
+          "block": 0,
+          "expect": "第九章",
+          "children": [
+            {
+              "label": "热爱家庭生活的人",
+              "file": "ebook_source_split_016.html",
+              "block": 5,
+              "expect": "热爱家庭生活的人"
+            },
+            {
+              "label": "军事家",
+              "file": "ebook_source_split_016.html",
+              "block": 14,
+              "expect": "军事家"
+            },
+            {
+              "label": "政治家",
+              "file": "ebook_source_split_016.html",
+              "block": 30,
+              "expect": "政治家"
+            },
+            {
+              "label": "改革家",
+              "file": "ebook_source_split_016.html",
+              "block": 49,
+              "expect": "改革家"
+            }
+          ]
+        },
+        {
+          "label": "译后记",
+          "file": "ebook_source_split_016.html",
+          "block": 75,
+          "expect": "译 后 记"
+        }
+      ]
+    }
+  ]
+}

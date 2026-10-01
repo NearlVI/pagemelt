@@ -1,0 +1,377 @@
+{
+  "books": [
+    {
+      "file": "写作课 何为好，为何写不好，如何能写好 (（美）艾丽斯·马蒂森（Alice Mattison）著, 马蒂森 (Mattison etc.) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+      "start_file": 1,
+      "start_block": 96,
+      "entries": [
+        {
+          "label": "引言：打扰一下，我们是否在哪儿见过？",
+          "search": "引言",
+          "exact": true
+        },
+        {
+          "label": "风筝与线",
+          "search": "风筝与线",
+          "exact": true,
+          "children": [
+            {
+              "label": "自由写作，但别忽略常识",
+              "search": "自由写作，但别忽略常识",
+              "exact": true,
+              "children": [
+                {
+                  "label": "故事之声",
+                  "search": "故事之声",
+                  "exact": true
+                },
+                {
+                  "label": "恰到好处的白日梦",
+                  "search": "恰到好处的白日梦",
+                  "exact": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "让人物行动起来",
+          "search": "让人物行动起来",
+          "exact": true,
+          "children": [
+            {
+              "label": "想象",
+              "search": "想象",
+              "exact": true
+            },
+            {
+              "label": "灵感来了怎么办？",
+              "search": "灵感来了怎么办？",
+              "exact": true,
+              "children": [
+                {
+                  "label": "记录想法",
+                  "search": "记录想法",
+                  "exact": true
+                },
+                {
+                  "label": "差点儿发生的和本该发生的",
+                  "search": "差点儿发生的和本该发生的",
+                  "exact": true
+                },
+                {
+                  "label": "脱离现实的杜撰",
+                  "search": "脱离现实的杜撰",
+                  "exact": true
+                },
+                {
+                  "label": "修辞",
+                  "search": "修辞",
+                  "exact": true
+                },
+                {
+                  "label": "从主题到完整的作品",
+                  "search": "从主题到完整的作品",
+                  "exact": true
+                }
+              ]
+            },
+            {
+              "label": "顺其自然",
+              "search": "顺其自然",
+              "exact": true,
+              "children": [
+                {
+                  "label": "制造麻烦",
+                  "search": "制造麻烦",
+                  "exact": true
+                },
+                {
+                  "label": "戏剧化要有，但别太过",
+                  "search": "戏剧化要有，但别太过",
+                  "exact": true
+                },
+                {
+                  "label": "合理运用巧合",
+                  "search": "合理运用巧合",
+                  "exact": true
+                }
+              ]
+            },
+            {
+              "label": "成为别人",
+              "search": "成为别人",
+              "exact": true,
+              "children": [
+                {
+                  "label": "我可以假装是你吗？",
+                  "search": "我可以假装是你吗？",
+                  "exact": true
+                },
+                {
+                  "label": "“她会怎么做？”",
+                  "search": "“她会怎么做？”",
+                  "exact": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "短篇与长篇：从起点到终点",
+          "search": "短篇与长篇：从起点到终点",
+          "exact": true,
+          "children": [
+            {
+              "label": "充分认识短篇与长篇",
+              "search": "充分认识短篇与长篇",
+              "exact": true,
+              "children": [
+                {
+                  "label": "什么是短篇小说？——以格雷丝·佩利的《和父亲的对话》为例",
+                  "search": "什么是短篇小说？",
+                  "exact": true
+                },
+                {
+                  "label": "蒂莉·奥尔森：《我站在这儿熨烫》",
+                  "search": "蒂莉·奥尔森：《我站在这儿熨烫》",
+                  "exact": true
+                },
+                {
+                  "label": "爱德华·P.琼斯：《母亲节后的星期天》",
+                  "search": "爱德华·P.琼斯：《母亲节后的星期天》",
+                  "exact": true
+                },
+                {
+                  "label": "未完成的长篇",
+                  "search": "未完成的长篇",
+                  "exact": true
+                },
+                {
+                  "label": "长篇小说的构思",
+                  "search": "长篇小说的构思",
+                  "exact": true
+                },
+                {
+                  "label": "《米德尔马契》的故事大纲",
+                  "search": "《米德尔马契》的故事大纲",
+                  "exact": true
+                }
+              ]
+            },
+            {
+              "label": "女王的死因，以及“不确定”的吸引力",
+              "search": "女王的死因，以及“不确定”的吸引力",
+              "exact": true,
+              "children": [
+                {
+                  "label": "篇幅长的就是长篇小说吗？",
+                  "search": "篇幅长的就是长篇小说吗？",
+                  "exact": true
+                },
+                {
+                  "label": "女王之死",
+                  "search": "女王之死",
+                  "exact": true
+                },
+                {
+                  "label": "宽阔笔直的单行道",
+                  "search": "宽阔笔直的单行道",
+                  "exact": true
+                },
+                {
+                  "label": "风景优美的观光线路",
+                  "search": "风景优美的观光线路",
+                  "exact": true
+                },
+                {
+                  "label": "高速公路",
+                  "search": "高速公路",
+                  "exact": true
+                },
+                {
+                  "label": "之字形线路",
+                  "search": "之字形线路",
+                  "exact": true
+                },
+                {
+                  "label": "迂回的小径——和孩子玩寻宝游戏",
+                  "search": "迂回的小径——和孩子玩寻宝游戏",
+                  "exact": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "敞开心扉",
+          "search": "敞开心扉",
+          "exact": true,
+          "children": [
+            {
+              "label": "沉默，还是开口讲出来",
+              "search": "沉默，还是开口讲出来",
+              "exact": true,
+              "children": [
+                {
+                  "label": "开不了口——作家的写作障碍",
+                  "search": "开不了口——作家的写作障碍",
+                  "exact": true
+                },
+                {
+                  "label": "直接叙述与间接叙述",
+                  "search": "直接叙述与间接叙述",
+                  "exact": true
+                },
+                {
+                  "label": "有信息量的句子",
+                  "search": "有信息量的句子",
+                  "exact": true
+                },
+                {
+                  "label": "悬念",
+                  "search": "悬念",
+                  "exact": true
+                },
+                {
+                  "label": "沉溺于心理活动的人物",
+                  "search": "沉溺于心理活动的人物",
+                  "exact": true
+                },
+                {
+                  "label": "刻意打乱时间顺序",
+                  "search": "刻意打乱时间顺序",
+                  "exact": true
+                },
+                {
+                  "label": "动机不明",
+                  "search": "动机不明",
+                  "exact": true
+                },
+                {
+                  "label": "无益的脱离现实",
+                  "search": "无益的脱离现实",
+                  "exact": true
+                },
+                {
+                  "label": "省略",
+                  "search": "省略",
+                  "exact": true
+                },
+                {
+                  "label": "为安全而省略",
+                  "search": "为安全而省略",
+                  "exact": true
+                },
+                {
+                  "label": "作品中的被动沉默式人物",
+                  "search": "作品中的被动沉默式人物",
+                  "exact": true
+                },
+                {
+                  "label": "把故事讲出来",
+                  "search": "把故事讲出来",
+                  "exact": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "坚持写下去",
+          "search": "坚持写下去",
+          "exact": true,
+          "children": [
+            {
+              "label": "修正思维的泡泡",
+              "search": "修正思维的泡泡",
+              "exact": true,
+              "children": [
+                {
+                  "label": "不切实际的幻想",
+                  "search": "不切实际的幻想",
+                  "exact": true
+                },
+                {
+                  "label": "我们应该怎么做？",
+                  "search": "我们应该怎么做？",
+                  "exact": true
+                },
+                {
+                  "label": "想清楚究竟想要什么",
+                  "search": "想清楚究竟想要什么",
+                  "exact": true
+                },
+                {
+                  "label": "哪些事不该做？",
+                  "search": "哪些事不该做？",
+                  "exact": true
+                },
+                {
+                  "label": "你的作品足以出版了吗？",
+                  "search": "你的作品足以出版了吗？",
+                  "exact": true
+                },
+                {
+                  "label": "修改，但不绝望",
+                  "search": "修改，但不绝望",
+                  "exact": true
+                },
+                {
+                  "label": "寻找读者",
+                  "search": "寻找读者",
+                  "exact": true
+                },
+                {
+                  "label": "通过阅读学写作",
+                  "search": "通过阅读学写作",
+                  "exact": true
+                },
+                {
+                  "label": "在哪里投稿？",
+                  "search": "在哪里投稿？",
+                  "exact": true
+                },
+                {
+                  "label": "如何投稿？",
+                  "search": "如何投稿？",
+                  "exact": true
+                },
+                {
+                  "label": "还不行怎么办？",
+                  "search": "还不行怎么办？",
+                  "exact": true
+                },
+                {
+                  "label": "自助出版",
+                  "search": "自助出版",
+                  "exact": true
+                },
+                {
+                  "label": "兼职作家",
+                  "search": "兼职作家",
+                  "exact": true
+                },
+                {
+                  "label": "保持愉悦",
+                  "search": "保持愉悦",
+                  "exact": true
+                },
+                {
+                  "label": "写作那些事儿",
+                  "search": "写作那些事儿",
+                  "exact": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "label": "致谢",
+          "search": "致谢",
+          "exact": true
+        }
+      ]
+    }
+  ]
+}

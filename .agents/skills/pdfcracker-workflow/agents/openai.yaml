@@ -1,0 +1,4 @@
+interface:
+  display_name: "PdfCracker Workflow"
+  short_description: "Convert PDFs and maintain EPUB TOCs"
+  default_prompt: "Use $pdfcracker-workflow to convert a PDF and verify its EPUB output."
