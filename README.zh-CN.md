@@ -35,17 +35,20 @@ PDF ──▶ MinerU 结构化解析 ──▶ 适配电子书的 Markdown ─�
 
 ## 差异点在哪
 
-### 1. 导航是"重建"出来的，不是猜出来的
-[目录编纂工作流](toc-workflow/README.md)把导航修复变成可审阅、基于证据的流程：
+### 1. 导航是"还原"出来的，不是猜出来的
+[目录编纂工作流](toc-workflow/README.md)把导航修复变成可审阅、基于证据的流程，契约只有一句话：**印刷目录定义条目集（标签、层级、顺序）；正文定义落点；页码一律丢弃。**
 
 ```text
    每本书一份证据包（当前导航 · 印刷目录窗口 · 正文结构性标题）
                     │
                     ▼
-        LLM / 人工审定（标签、层级、顺序）
-                    │  搜索规范
+        LLM / 人工审定（还原印刷目录；声明一切偏离）
+                    │  搜索规范 + deviation/dropped 声明
                     ▼
         resolve ▶ 坐标规范（文件 + 正文块 + 期望文本）
+                    │
+                    ▼
+        coverage 门禁（每条印刷行已还原或已声明，否则失败）
                     │
                     ▼
         只读预检 validate（此时尚未改动 EPUB）
@@ -57,7 +60,7 @@ PDF ──▶ MinerU 结构化解析 ──▶ 适配电子书的 Markdown ─�
         freeze 冻结为下一批的审定基准
 ```
 
-**印刷目录只是编纂依据，绝不能作为导航目标** —— 每个条目都必须落到正文里真实存在的标题或内容块。严格验收逐项核对 EPUB/ZIP 完整性、`mimetype` 合规、NCX 可解析、`playOrder` 连续、无共享目标、标签无页码、目标身份、层级与正文顺序。
+**印刷目录是条目集的规范，但绝不能作为导航目标** —— 每个条目都必须落到正文里真实存在的标题或内容块。任何偏离（删行、改标签、调层级、增补）都必须在规范中声明（`deviation` / `dropped` 附原因）并通过 `coverage` 门禁，静默偏离即失败。严格验收另逐项核对 EPUB/ZIP 完整性、`mimetype` 合规、NCX 可解析、`playOrder` 连续、无共享目标、标签无页码、目标身份、层级与正文顺序。
 
 ### 2. 溯源回执，绝不静默覆盖
 每次转换都会写一份回执，把输出 SHA-256 与源 PDF 字节、书名/作者、解析选项、工具哈希和 Calibre 可执行文件哈希绑定。批量重跑只有在溯源完全匹配时才跳过。你手工修复过的 EPUB 会**作为失败项上报待审，而不是被覆盖**。没有匹配 `extraction-provenance.json` 的中间产物一律重新生成，遗留缓存绝不推断采信。（这是缓存与成品保护，不是逐位可复现保证 —— 模型权重和 Calibre 依赖不在哈希范围内。）
@@ -161,19 +164,22 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\convert-pdfbook.ps
   -SearchSpec "toc-workflow\specs\batch.search.json" `
   -OutputSpec "toc-workflow\specs\batch.coordinates.json"
 
-# 3. 只读预检
+# 3. 覆盖度门禁：每条印刷目录行已还原或已声明，否则失败
+.\scripts\toc-workflow.ps1 coverage "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
+
+# 4. 只读预检
 .\scripts\toc-workflow.ps1 validate "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
 
-# 4. 带完整备份应用，随后自动严格验收
+# 5. 带完整备份应用，随后自动严格验收
 .\scripts\toc-workflow.ps1 apply "output\books" -Spec "toc-workflow\specs\batch.coordinates.json" `
   -BackupDir "output\books-before-toc"
 
-# 5. 验收通过并人工抽查后，才冻结新基准
+# 6. 验收通过并人工抽查后，才冻结新基准
 .\scripts\toc-workflow.ps1 accept "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
 .\scripts\toc-workflow.ps1 freeze "output\books" -OutputSpec "toc-workflow\specs\accepted-batch.json"
 ```
 
-工具强制执行的规则：重复标题必须用 `occurrence`、`start_file`、`max_file` 或显式坐标消歧；坐标绑定 EPUB 的 spine 与正文块结构，HTML 拆分或 OCR 修订后必须重新解析；备份目录绝不能放在待处理目录内部；`freeze` 会覆盖目标文件，只能有意执行。
+工具强制执行的规则：印刷目录是条目集的规范，任何偏离必须声明（`deviation` / `dropped`）并通过 coverage 门禁；重复标题必须用 `occurrence`、`start_file`、`max_file` 或显式坐标消歧；坐标绑定 EPUB 的 spine 与正文块结构，HTML 拆分或 OCR 修订后必须重新解析；备份目录绝不能放在待处理目录内部；`freeze` 会覆盖目标文件，只能有意执行。
 
 ## 测试与验证
 
@@ -194,7 +200,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\convert-pdfbook.ps
 ```text
 scripts/        PowerShell 入口：环境安装、转换、目录工作流
 tools/          Python 工具：解析转 Markdown、目录编纂、审计、回执
-tests/          单元测试（25 个，仅依赖 bs4 + lxml）
+tests/          单元测试（34 个，仅依赖 bs4 + lxml）
 toc-workflow/   审定提示词、工作流文档、已验收的坐标规范
 docs/           83 本书库的审计与复核记录
 input/          源 PDF               （不入库）

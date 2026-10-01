@@ -110,10 +110,17 @@ def resolve_book(epub_path: Path, spec: dict[str, Any]) -> dict[str, Any]:
             children = resolve_entries(entry.get("children") or [])
             if children:
                 result["children"] = children
+            if entry.get("deviation"):
+                result["deviation"] = entry["deviation"]
+            if entry.get("printed"):
+                result["printed"] = entry["printed"]
             resolved_entries.append(result)
         return resolved_entries
 
-    return {"file": spec["file"], "entries": resolve_entries(spec["entries"])}
+    resolved = {"file": spec["file"], "entries": resolve_entries(spec["entries"])}
+    if spec.get("dropped"):
+        resolved["dropped"] = spec["dropped"]
+    return resolved
 
 
 def main() -> int:

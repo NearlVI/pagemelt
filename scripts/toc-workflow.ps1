@@ -1,6 +1,6 @@
 param(
     [Parameter(Mandatory = $true, Position = 0)]
-    [ValidateSet("review", "resolve", "validate", "apply", "audit", "accept", "freeze")]
+    [ValidateSet("review", "resolve", "coverage", "validate", "apply", "audit", "accept", "freeze")]
     [string]$Command,
     [Parameter(Mandatory = $true, Position = 1)]
     [string]$EpubDir,
@@ -8,7 +8,8 @@ param(
     [string]$WorkDir = "",
     [string]$BackupDir = "",
     [string]$SearchSpec = "",
-    [string]$OutputSpec = ""
+    [string]$OutputSpec = "",
+    [switch]$StrictAdditions
 )
 
 $ErrorActionPreference = "Stop"
@@ -37,6 +38,9 @@ if ($SearchSpec) {
 }
 if ($OutputSpec) {
     $arguments += @("--output-spec", $OutputSpec)
+}
+if ($StrictAdditions) {
+    $arguments += "--strict-additions"
 }
 
 $env:PYTHONUTF8 = "1"

@@ -17,7 +17,11 @@ DEFAULT_SPEC = ROOT / "toc-workflow" / "specs" / "reviewed-psychology-77-2026091
 def run(*args: object) -> None:
     command = [sys.executable, *(str(arg) for arg in args)]
     print("+", " ".join(command))
-    subprocess.run(command, cwd=ROOT, check=True)
+    try:
+        subprocess.run(command, cwd=ROOT, check=True)
+    except subprocess.CalledProcessError as error:
+        # Gate tools fail by design; propagate their exit code without a traceback.
+        raise SystemExit(error.returncode) from None
 
 
 def review(epub_dir: Path, work_dir: Path) -> None:
@@ -58,6 +62,18 @@ def resolve(epub_dir: Path, search_spec: Path, output_spec: Path) -> None:
     )
 
 
+def coverage(epub_dir: Path, spec: Path, work_dir: Path, strict_additions: bool) -> None:
+    command: list[object] = [
+        ROOT / "tools" / "measure_printed_toc_coverage.py",
+        epub_dir,
+        "--spec", spec,
+        "--csv-output", work_dir / "coverage.csv",
+    ]
+    if strict_additions:
+        command.append("--strict-additions")
+    run(*command)
+
+
 def freeze(epub_dir: Path, output_spec: Path) -> None:
     run(ROOT / "tools" / "export_epub_toc_coordinates.py", epub_dir, output_spec)
 
@@ -66,7 +82,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "command",
-        choices=["review", "resolve", "validate", "apply", "audit", "accept", "freeze"],
+        choices=["review", "resolve", "coverage", "validate", "apply", "audit", "accept", "freeze"],
     )
     parser.add_argument("epub_dir", type=Path)
     parser.add_argument("--spec", type=Path, default=DEFAULT_SPEC)
@@ -74,12 +90,13 @@ def main() -> int:
     parser.add_argument("--backup-dir", type=Path)
     parser.add_argument("--search-spec", type=Path)
     parser.add_argument("--output-spec", type=Path)
+    parser.add_argument("--strict-additions", action="store_true")
     args = parser.parse_args()
 
     epub_dir = args.epub_dir.resolve()
     spec = args.spec.resolve()
     work_dir = args.work_dir.resolve()
-    if args.command in {"validate", "apply", "accept"} and not spec.is_file():
+    if args.command in {"validate", "apply", "accept", "coverage"} and not spec.is_file():
         parser.error(f"accepted spec not found: {spec}")
     if args.command == "resolve" and (args.search_spec is None or args.output_spec is None):
         parser.error("resolve requires --search-spec and --output-spec")
@@ -90,6 +107,8 @@ def main() -> int:
         review(epub_dir, work_dir)
     elif args.command == "resolve":
         resolve(epub_dir, args.search_spec.resolve(), args.output_spec.resolve())
+    elif args.command == "coverage":
+        coverage(epub_dir, spec, work_dir, args.strict_additions)
     elif args.command == "freeze":
         freeze(epub_dir, args.output_spec.resolve())
     elif args.command == "validate":

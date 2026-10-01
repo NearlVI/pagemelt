@@ -35,17 +35,20 @@ PDF ──▶ MinerU structured extraction ──▶ ebook-friendly Markdown ─
 
 ## What makes it different
 
-### 1. Navigation is rebuilt, not guessed
-The [TOC curation workflow](toc-workflow/README.md) turns navigation repair into a reviewable, evidence-based process:
+### 1. Navigation is restored, not guessed
+The [TOC curation workflow](toc-workflow/README.md) turns navigation repair into a reviewable, evidence-based process with one contract: **the printed TOC defines the entry set (labels, hierarchy, order); the body defines the targets; page numbers are discarded.**
 
 ```text
    evidence packet per book (current nav · printed-TOC window · structural headings)
                     │
                     ▼
-        LLM / human adjudication  (labels, hierarchy, order)
-                    │  search spec
+        LLM / human adjudication  (restore the printed TOC; declare deviations)
+                    │  search spec + deviation/dropped declarations
                     ▼
         resolve ▶ coordinate spec (file + body block + expected text)
+                    │
+                    ▼
+        coverage gate  (every printed line restored or declared, else fail)
                     │
                     ▼
         read-only validate  (nothing touches the EPUB yet)
@@ -57,7 +60,7 @@ The [TOC curation workflow](toc-workflow/README.md) turns navigation repair into
         freeze as the reviewed baseline for the next batch
 ```
 
-The **printed table of contents is treated as evidence, never as a navigation target** — every entry must resolve to a real heading or content block in the body. Strict acceptance checks EPUB/ZIP integrity, `mimetype` compliance, NCX parseability, `playOrder` continuity, shared targets, page numbers in labels, target identity, hierarchy, and body order — entry by entry against the approved specification.
+The **printed table of contents is the specification for what the TOC should contain — but never a navigation target**: every entry must resolve to a real heading or content block in the body. Any deviation (dropped line, renamed label, releveling, addition) must be declared in the spec (`deviation` / `dropped` with reasons) and passes the `coverage` gate, which fails on any silent deviation. Strict acceptance additionally checks EPUB/ZIP integrity, `mimetype` compliance, NCX parseability, `playOrder` continuity, shared targets, page numbers in labels, target identity, hierarchy, and body order — entry by entry against the approved specification.
 
 ### 2. Provenance receipts, never silent overwrites
 Every conversion writes a receipt binding output SHA-256 hashes to the source PDF bytes, title/author, extraction options, tool hashes, and the Calibre executable hash. Batch reruns skip a book only when provenance matches. An EPUB you hand-repaired is **reported as a failure to review, not overwritten**. Intermediates without a matching `extraction-provenance.json` are regenerated; legacy caches are never trusted. (This is cache/output protection, not a bit-for-bit reproducibility guarantee — model weights and Calibre dependencies are not hashed.)
@@ -161,19 +164,22 @@ Full documentation in **[`toc-workflow/README.md`](toc-workflow/README.md)** (Ch
   -SearchSpec "toc-workflow\specs\batch.search.json" `
   -OutputSpec "toc-workflow\specs\batch.coordinates.json"
 
-# 3. Read-only preflight validation
+# 3. Coverage gate: every printed-TOC line restored or declared, else fail
+.\scripts\toc-workflow.ps1 coverage "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
+
+# 4. Read-only preflight validation
 .\scripts\toc-workflow.ps1 validate "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
 
-# 4. Apply with a full backup, then automatic strict acceptance
+# 5. Apply with a full backup, then automatic strict acceptance
 .\scripts\toc-workflow.ps1 apply "output\books" -Spec "toc-workflow\specs\batch.coordinates.json" `
   -BackupDir "output\books-before-toc"
 
-# 5. Accept, then (only after human spot checks) freeze a new baseline
+# 6. Accept, then (only after human spot checks) freeze a new baseline
 .\scripts\toc-workflow.ps1 accept "output\books" -Spec "toc-workflow\specs\batch.coordinates.json"
 .\scripts\toc-workflow.ps1 freeze "output\books" -OutputSpec "toc-workflow\specs\accepted-batch.json"
 ```
 
-Rules the tools enforce: repeated titles must be disambiguated (`occurrence`, `start_file`, `max_file`, or explicit coordinates); coordinates bind to the EPUB's spine and body-block structure and must be re-derived after any HTML split or OCR revision; backups may never live inside the directory being processed; `freeze` overwrites its target and is only run deliberately.
+Rules the tools enforce: the printed TOC is the specification for the entry set and deviations must be declared (`deviation` / `dropped`) and pass the coverage gate; repeated titles must be disambiguated (`occurrence`, `start_file`, `max_file`, or explicit coordinates); coordinates bind to the EPUB's spine and body-block structure and must be re-derived after any HTML split or OCR revision; backups may never live inside the directory being processed; `freeze` overwrites its target and is only run deliberately.
 
 ## Testing & verification
 
@@ -194,7 +200,7 @@ The acceptance command returns nonzero for failed books and keeps going after an
 ```text
 scripts/        PowerShell entry points: setup, conversion, TOC workflow
 tools/          Python tools: extraction-to-Markdown, TOC curation, auditing, receipts
-tests/          Unit tests (25 tests, bs4 + lxml only)
+tests/          Unit tests (34 tests, bs4 + lxml only)
 toc-workflow/   Review prompt, workflow docs, accepted coordinate specifications
 docs/           Audit and review records from the 83-book corpus
 input/          Your source PDFs        (not tracked)

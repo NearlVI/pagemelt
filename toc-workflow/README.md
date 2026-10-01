@@ -2,9 +2,10 @@
 
 这套流程用于把 EPUB 的印刷目录、现有导航和正文结构交给 LLM/人工共同审定，再用精确正文坐标重建 NCX。核心边界是：
 
-- LLM/人工判断哪些条目属于目录、层级如何组织、顺序是否合理。
+- **印刷目录定义条目集**（哪些条目、叫什么、什么层级、什么顺序）；**正文定义落点**（导航目标必须解析到正文真实标题或内容块）。页码一律丢弃。
+- LLM/人工默认逐条还原印刷目录。任何删、并、改写、调层级、增补都必须声明（条目级 `deviation` 或书级 `dropped`），并通过 `coverage` 门禁核验；无声偏离即验收失败。
 - 脚本提取证据、解析坐标、写入 EPUB、备份和执行机械验收。
-- 印刷目录只是编纂依据，绝不能作为导航目标；导航必须落到正文中的真实标题或内容块。
+- 印刷目录行绝不能作为导航目标。
 - 不根据标题正则批量猜测整本书的目录。
 
 当前默认验收基准是 [`specs/reviewed-psychology-77-20260911.json`](specs/reviewed-psychology-77-20260911.json)，包含 77 本心理学书籍的 4745 个目录项、层级和精确正文坐标。
@@ -71,7 +72,19 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
 
 重复标题必须通过 `occurrence`、`start_file`、`max_file` 或直接坐标消歧。解析成功不代表语义正确，生成的坐标规范仍需人工抽查证据。
 
-### 3. 只读预检
+审定规范还应携带还原声明：未还原的印刷目录行记入书级 `dropped` 数组（`line` + `reason`）；改写、调层级、合并或增补的条目加 `deviation` 字段。这些字段会随 resolve 透传进坐标规范。
+
+### 3. 覆盖度门禁
+
+```powershell
+powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
+  coverage "output\待处理书籍" `
+  -Spec "toc-workflow\specs\批次名.coordinates.json"
+```
+
+门禁逐本核对还原契约：每条印刷目录行要么还原为目录条目、要么在 `dropped` 中声明原因；静默丢失任何一行都会以退出码 3 失败并列出书名与示例行。加 `-StrictAdditions` 时，印刷目录中没有、又无 `deviation` 声明的增补条目也会失败（退出码 4）。印刷目录无法检测（无导线、页码被拆散）的书报告为不可测，不做猜测。建议在 validate 之前先跑一次，把静默偏离消灭在写入之前。
+
+### 4. 只读预检
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
@@ -84,7 +97,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
 
 坐标规范绑定到 EPUB 的 spine 文件划分和正文块结构。HTML 拆分、OCR 修订或正文重排后必须重新解析并审阅规范；不能把旧坐标直接套到结构不同的 EPUB。
 
-### 4. 带备份应用
+### 5. 带备份应用
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
@@ -96,7 +109,7 @@ powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
 
 应用命令先再次预检，然后完整备份命中的 EPUB，写入正文锚点和 NCX，最后自动执行严格验收。不要把备份目录设在待处理目录内部。
 
-### 5. 验收与冻结
+### 6. 验收与冻结
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `
@@ -112,7 +125,7 @@ NCX 链接按 NCX 所在目录解析。不同锚点落在同一正文块也会�
 预检要求每项包含 `expect` 并与正文吻合，同时拒绝重复坐标与正文逆序，
 避免在写入 EPUB 后才发现问题。验收会对损坏书籍记录失败并继续检查其余书籍。
 
-只有完成人工抽查且 `accept` 为 0 失败后，才能冻结新的基准：
+只有完成人工抽查、`accept` 为 0 失败、且 `coverage` 无静默丢失后，才能冻结新的基准：
 
 ```powershell
 powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\toc-workflow.ps1 `

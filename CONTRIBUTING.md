@@ -30,9 +30,14 @@ installed works.
 
 ## Design invariants (do not break these)
 
-1. **The printed TOC is evidence, never a navigation target.** Every
-   navigation entry must resolve to a real heading or content block in the
-   body. Never add code that batch-guesses a whole-book TOC from regex hits.
+1. **The printed TOC is the specification for the entry set; the body is the
+   specification for targets.** Labels, hierarchy, and order come from the
+   printed TOC by default; page numbers are discarded. Every navigation entry
+   must resolve to a real heading or content block in the body, and printed-TOC
+   lines are never navigation targets. Any deviation (drop, rename, relevel,
+   addition) must be declared (`deviation` on the entry or book-level `dropped`
+   with a reason) and pass the `coverage` gate. Never add code that
+   batch-guesses a whole-book TOC from regex hits.
 2. **No application without validation and an external backup.** `apply`
    always re-validates read-only first, backs up the affected EPUBs outside
    the input directory, and runs strict acceptance afterwards.
